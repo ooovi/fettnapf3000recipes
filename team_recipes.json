@@ -74,31 +74,6 @@
       "instructions": "",
       "materials": []
     },
-    "47": {
-      "name": "misc",
-      "n_servings": 1.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "handseife": 1.0,
-            "sp\u00fcli": 1.0,
-            "schw\u00e4mme": 1.0,
-            "lappen": 1.0,
-            "stahlwolle": 1.0,
-            "desi": 1.0,
-            "k\u00fcchenrolle": 1.0,
-            "gummihandschuhe": 1.0,
-            "sp\u00fclhandschuhe": 1.0,
-            "m\u00fcllbeutel": 1.0,
-            "crewcare": 1.0,
-            "gas": 0.0367
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": []
-    },
     "64": {
       "name": "apfel-zwiebel-schmelz",
       "n_servings": 10.0,
@@ -748,34 +723,6 @@
       "materials": [],
       "category": "eintopf"
     },
-    "92": {
-      "name": "mercimek",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "zwiebeln": 0.5,
-            "m\u00f6hren": 0.5,
-            "kartoffeln": 0.5,
-            "rote linsen": 0.9,
-            "tomatenmark": 0.2,
-            "zitronensaft": 0.2,
-            "knobi": 0.05,
-            "\u00f6l": 0.15,
-            "brot": 0.5,
-            "frische minze": 0.01,
-            "chili (pulver)": 0.001,
-            "paprika (pulver)": 0.01,
-            "salz": 0.02,
-            "pfeffer": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "eintopf"
-    },
     "93": {
       "name": "mett",
       "n_servings": 8.0,
@@ -1045,30 +992,6 @@
       "materials": [],
       "category": "geb\u00e4ck"
     },
-    "106": {
-      "name": "salat",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "salat": 0.5,
-            "sn\u00e4ckgem\u00fcse": 0.5,
-            "sonnenblumenkerne": 0.05,
-            "senf": 0.05,
-            "oliven\u00f6l": 0.02,
-            "balsamico": 0.05,
-            "zitronensaft": 0.05,
-            "zucker": 0.01,
-            "salz": 0.02,
-            "pfeffer": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "salat"
-    },
     "107": {
       "name": "schokospa\u00df",
       "n_servings": 10.0,
@@ -1172,66 +1095,6 @@
       "instructions": "",
       "materials": [],
       "category": "geb\u00e4ck"
-    },
-    "113": {
-      "name": "wirsing-sahne mit kartoffeln",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "wirsing": 1.5,
-            "zwiebeln": 0.3,
-            "r\u00e4uchertofu": 0.5,
-            "sojasahne": 1.0,
-            "salz": 0.02,
-            "pfeffer": 0.01,
-            "muskat": 0.01,
-            "senf": 0.1,
-            "lorbeer": 0.01,
-            "zucker": 0.01,
-            "\u00f6l": 0.15,
-            "kartoffeln": 3.0
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "hauptgericht"
-    },
-    "114": {
-      "name": "zhenia's borschtch",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "borschtch",
-          {
-            "kartoffeln": 0.7,
-            "zwiebeln": 0.4,
-            "knobi": 0.05,
-            "rote beete (roh)": 1.0,
-            "wei\u00dfe bohnen (trocken, nass x 4)": 0.13,
-            "dosentomaten (gehackt)": 0.3,
-            "zitronensaft": 0.17,
-            "lorbeer": 0.001,
-            "pfeffer ganz": 0.01,
-            "salz": 0.02,
-            "zucker": 0.02
-          }
-        ],
-        [
-          "cashew sour cream",
-          {
-            "cashewn\u00fcsse": 0.17,
-            "zitronensaft": 0.05,
-            "hefeflocken": 0.05,
-            "salz": 0.01
-          }
-        ]
-      ],
-      "instructions": "soak cashews overnight and blend with zitronensaft and salz for sour cream.\r\n\r\n### Material\r\nStabmixer\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "eintopf"
     },
     "115": {
       "name": "lasagne",
@@ -1397,36 +1260,6 @@
       "materials": [],
       "category": "geb\u00e4ck"
     },
-    "120": {
-      "name": "gulasch aus soja",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "soja chunks": 0.6,
-            "rote zwiebeln": 0.5,
-            "knobi": 0.1,
-            "dosentomaten (ganz)": 1.5,
-            "tomatenmark": 0.2,
-            "rotwein": 0.5,
-            "helle sojasauce (glutenfrei)": 0.1,
-            "kartoffeln": 2.0,
-            "paprika": 0.5,
-            "champis": 0.5,
-            "\u00f6l": 0.2,
-            "lorbeer": 0.001,
-            "salz": 0.02,
-            "pfeffer ganz": 0.01,
-            "ger\u00e4uchertes paprikapulver": 0.01,
-            "zucker": 0.01
-          }
-        ]
-      ],
-      "instructions": "soja chunks mit kochendem salzwasser \u00fcbergie\u00dfen. zwiebelringe, ganzen knobi, ganzen pfeffer und lorbeer in \u00f6l braten. sojachunks ausquetschen und mitbraten bis sie golden werden. mit sojaso\u00dfe und rotwein abl\u00f6schen. tomaten zucker salz paprika dazutun und so lange wie m\u00f6glich k\u00f6cheln lassen. dann kartoffelkl\u00f6\u00dfe nach anleitung zubereiten.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "eintopf"
-    },
     "121": {
       "name": "gulasch aus seitan mit kl\u00f6\u00dfen",
       "n_servings": 10.0,
@@ -1454,6 +1287,267 @@
       "instructions": "seitanpulver mit viel gew\u00fcrz. fry zwiebeln, whole knobi, whole pfeffer, laurel in \u00f6l. squeeze chunks dry and add to fry till golden. deglaze with soy sauce and wine. add tomato, zucker, salz and paprika to taste. simmer for as long as you can. then make potato dumplings as Anleitung say.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
       "materials": [],
       "category": "hauptgericht"
+    },
+    "123": {
+      "name": "knobi\u00f6l",
+      "n_servings": 1,
+      "ingredients": [
+        [
+          "",
+          {
+            "oliven\u00f6l": 0.004,
+            "knobi": 0.001
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "misc"
+    },
+    "124": {
+      "name": "salat",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "salat": 0.5,
+            "sn\u00e4ckgem\u00fcse": 0.5,
+            "sonnenblumenkerne": 0.05,
+            "senf": 0.05,
+            "oliven\u00f6l": 0.02,
+            "balsamico": 0.05,
+            "zucker": 0.01,
+            "salz": 0.02,
+            "pfeffer": 0.01
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "salat"
+    },
+    "125": {
+      "name": "zhenia's borschtch",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "borschtch",
+          {
+            "kartoffeln": 0.7,
+            "zwiebeln": 0.4,
+            "knobi": 0.05,
+            "rote beete (roh)": 1.0,
+            "wei\u00dfe bohnen (trocken, nass x 4)": 0.13,
+            "dosentomaten (gehackt)": 0.3,
+            "zitronensaft": 0.17,
+            "lorbeer": 0.001,
+            "pfeffer ganz": 0.01,
+            "salz": 0.02,
+            "zucker": 0.02
+          }
+        ],
+        [
+          "cashew sour cream",
+          {
+            "cashewn\u00fcsse": 0.17,
+            "zitronensaft": 0.05,
+            "sojasahne": 0.1,
+            "hefeflocken": 0.05,
+            "salz": 0.01
+          }
+        ]
+      ],
+      "instructions": "soak cashews overnight and blend with zitronensaft and salz for sour cream.\r\n\r\n### Material\r\nStabmixer\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "eintopf"
+    },
+    "126": {
+      "name": "hygiene",
+      "n_servings": 1.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "handseife": 1.0,
+            "sp\u00fcli": 1.0,
+            "schw\u00e4mme": 1.0,
+            "lappen": 1.0,
+            "stahlwolle": 1.0,
+            "desi": 1.0,
+            "k\u00fcchenrolle": 1.0,
+            "gummihandschuhe": 1.0,
+            "sp\u00fclhandschuhe": 1.0,
+            "m\u00fcllbeutel": 1.0,
+            "crewcare": 1.0,
+            "gas": 0.0367
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "misc"
+    },
+    "127": {
+      "name": "mercimek",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "zwiebeln": 0.5,
+            "m\u00f6hren": 0.5,
+            "kartoffeln": 0.5,
+            "rote linsen": 0.8999999999999999,
+            "tomatenmark": 0.2,
+            "zitronensaft": 0.2,
+            "knobi": 0.05,
+            "\u00f6l": 0.15,
+            "frische minze": 0.01,
+            "chili (pulver)": 0.001,
+            "paprika (pulver)": 0.01,
+            "salz": 0.02,
+            "pfeffer": 0.01
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "eintopf"
+    },
+    "128": {
+      "name": "wirsing-sahne mit kartoffeln",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "wirsing": 1.5,
+            "zwiebeln": 0.3,
+            "r\u00e4uchertofu": 0.5,
+            "sojasahne": 1.0,
+            "salz": 0.02,
+            "pfeffer": 0.01,
+            "muskat": 0.01,
+            "senf": 0.1,
+            "lorbeer": 0.01,
+            "zucker": 0.01,
+            "\u00f6l": 0.15,
+            "kartoffeln": 2.75
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "129": {
+      "name": "gurkensalat",
+      "n_servings": 4.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "gurke": 0.3,
+            "rote zwiebeln": 0.05,
+            "frischer dill": 0.005,
+            "apfelessig": 0.01,
+            "\u00f6l": 0.01,
+            "zucker": 0.004,
+            "salz": 0.008,
+            "pfeffer": 0.002,
+            "sojasahne": 0.02
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [
+        "",
+        "love"
+      ],
+      "category": "salat"
+    },
+    "131": {
+      "name": "rotweinkuchen",
+      "n_servings": 8.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "mehl": 0.2,
+            "zucker": 0.12,
+            "gemahlene haseln\u00fcsse": 0.07,
+            "kuvert\u00fcre/schoki vegan": 0.06,
+            "margerine": 0.08,
+            "rotwein": 0.1,
+            "sojamilch": 0.125,
+            "kakao": 0.02,
+            "salz": 0.001,
+            "zimt": 0.001,
+            "backpulver": 0.01
+          }
+        ]
+      ],
+      "instructions": "180 grad ca 40 minuten\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "geb\u00e4ck"
+    },
+    "135": {
+      "name": "pasta arrabiata",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "so\u00dfe",
+          {
+            "knobi": 0.2,
+            "chili (pulver)": 0.01,
+            "oliven\u00f6l": 0.25,
+            "dosentomaten (gehackt)": 4.0,
+            "salz": 0.01,
+            "zucker": 0.01
+          }
+        ],
+        [
+          "nudels",
+          {
+            "pasta": 1.5,
+            "salz": 0.1
+          }
+        ]
+      ],
+      "instructions": "knobi und chili in \u00f6l braten, mit tomate abl\u00f6schen und f\u00fcr immer k\u00f6cheln lassen. mit zucker und salz abschmecken\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "136": {
+      "name": "gulasch aus soja",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "soja chunks": 0.5,
+            "rote zwiebeln": 0.5,
+            "knobi": 0.1,
+            "dosentomaten (ganz)": 1.5,
+            "tomatenmark": 0.2,
+            "rotwein": 0.5,
+            "helle sojasauce (glutenfrei)": 0.1,
+            "kartoffeln": 2.0,
+            "paprika": 0.5,
+            "champis": 0.5,
+            "\u00f6l": 0.2,
+            "lorbeer": 0.001,
+            "salz": 0.02,
+            "pfeffer ganz": 0.01,
+            "ger\u00e4uchertes paprikapulver": 0.01,
+            "zucker": 0.01
+          }
+        ]
+      ],
+      "instructions": "soja chunks mit kochendem salzwasser \u00fcbergie\u00dfen. zwiebelringe, ganzen knobi, ganzen pfeffer und lorbeer in \u00f6l braten. sojachunks ausquetschen und mitbraten bis sie golden werden. mit sojaso\u00dfe und rotwein abl\u00f6schen. tomaten zucker salz paprika dazutun und so lange wie m\u00f6glich k\u00f6cheln lassen. dann kartoffelkl\u00f6\u00dfe nach anleitung zubereiten.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "eintopf"
     }
   }
 }
