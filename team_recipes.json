@@ -118,26 +118,6 @@
       "materials": [],
       "category": "hauptgericht"
     },
-    "66": {
-      "name": "britfast",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "baked beans": 2.0,
-            "w\u00fcrstchen": 0.5,
-            "champis": 1.0,
-            "tomaten": 1.0,
-            "zwiebeln": 1.0,
-            "tk-r\u00f6sti": 1.0
-          }
-        ]
-      ],
-      "instructions": "berechnet mit 2 kleine W\u00fcrste, 2 K-R\u00f6sti pro Person \u2013 dann ist noch Platz f\u00fcr Fleischsalat und M\u00fcsli im Bauch :)\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "fr\u00fchst\u00fcck"
-    },
     "67": {
       "name": "chili",
       "n_servings": 10.0,
@@ -300,26 +280,6 @@
       "materials": [],
       "category": "hauptgericht"
     },
-    "73": {
-      "name": "kaffe",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "kaffe": 0.12,
-            "hafermilch": 0.8,
-            "zucker": 0.04
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [
-        "",
-        "kaffe filter"
-      ],
-      "category": "fr\u00fchst\u00fcck"
-    },
     "74": {
       "name": "couscous kusskuss",
       "n_servings": 6.0,
@@ -344,32 +304,6 @@
       "instructions": "Couscous mit doppelter Menge hei\u00dfem Wasser aufgie\u00dfen und warten. N\u00fcsse und Zeug, was man da hat, rein, wenn es passt.\r\n\r\n\r\n\r\n\r\n\r\n\r",
       "materials": [],
       "category": "salat"
-    },
-    "75": {
-      "name": "eiersalat",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "pasta": 0.1,
-            "kichererbsen (trocken, nass x 2)": 0.24,
-            "zwiebeln": 0.08,
-            "kurkuma": 0.005,
-            "kala namak (eiersalz)": 0.005,
-            "frischer schnittlauch": 0.025,
-            "sojamilch": 0.15,
-            "\u00f6l": 0.3,
-            "senf": 0.02,
-            "balsamico (hell)": 0.02,
-            "pfeffer": 0.003,
-            "salz": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "fr\u00fchst\u00fcck"
     },
     "76": {
       "name": "fr\u00fchst\u00fcck (kaffe not included)",
@@ -453,81 +387,6 @@
       "materials": [],
       "category": "hauptgericht"
     },
-    "81": {
-      "name": "pilzrahm mit kl\u00f6\u00dfe",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "rote zwiebeln": 0.5,
-            "knobi": 0.1,
-            "champis": 1.0,
-            "soja chunks": 0.5,
-            "wei\u00dfwein": 0.5,
-            "sojasahne": 1.0,
-            "frische petersilie": 0.1,
-            "klo\u00dfteig": 2.5,
-            "\u00f6l": 0.2,
-            "salz": 0.02,
-            "pfeffer": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "hauptgericht"
-    },
-    "82": {
-      "name": "k\u00e4se-lauch-hack-suppe",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "lauch": 1.0,
-            "zwiebeln": 0.2,
-            "knobi": 0.01,
-            "sojahack (trocken)": 0.4,
-            "sonnenblumenkerne": 0.3,
-            "helle sojasauce (glutenfrei)": 0.04,
-            "zucker": 0.04,
-            "mehl": 0.04,
-            "muskat": 0.001,
-            "hefeflocken": 0.1,
-            "sojasahne": 1.2,
-            "gem\u00fcsebr\u00fche": 0.1,
-            "\u00f6l": 0.2,
-            "salz": 0.02,
-            "pfeffer": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "eintopf"
-    },
-    "83": {
-      "name": "krautsalat",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "wei\u00dfkohl": 1.0,
-            "apfelessig": 0.1,
-            "\u00f6l": 0.1,
-            "zucker": 0.05,
-            "schwarzk\u00fcmmel": 0.01,
-            "salz": 0.02,
-            "pfeffer": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "salat"
-    },
     "84": {
       "name": "kartoffeln mit kr\u00e4uterquark",
       "n_servings": 1.0,
@@ -573,43 +432,6 @@
       "instructions": "use the gurke pickle fluid for the dressing!\r\n\r\n\r\n\r",
       "materials": [],
       "category": "salat"
-    },
-    "86": {
-      "name": "k\u00fcrbisschnecken mit orangenbutter",
-      "n_servings": 20.0,
-      "ingredients": [
-        [
-          "schneckis",
-          {
-            "k\u00fcrbis": 0.5,
-            "sojamilch": 0.25,
-            "trockenhefe": 0.07,
-            "rohrzucker": 0.2,
-            "mehl": 1.0,
-            "margerine": 0.3,
-            "pekann\u00fcsse": 0.8,
-            "salz": 0.02,
-            "zimt": 0.01,
-            "ingwer (pulver)": 0.01,
-            "allspice": 0.01,
-            "muskat": 0.001,
-            "backpapier": 1.0
-          }
-        ],
-        [
-          "orangenbutter",
-          {
-            "bio-orangen": 0.1,
-            "vanillezucker": 0.008,
-            "margerine": 0.2,
-            "puderzucker": 0.25,
-            "salz": 0.02
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "geb\u00e4ck"
     },
     "87": {
       "name": "landleberwurstpastete",
@@ -659,37 +481,6 @@
       "instructions": "",
       "materials": [],
       "category": "salat"
-    },
-    "90": {
-      "name": "legendary zimtschnecken",
-      "n_servings": 12.0,
-      "ingredients": [
-        [
-          "teig",
-          {
-            "mehl": 0.8,
-            "sojamilch": 0.6,
-            "zucker": 0.08,
-            "margerine": 0.12,
-            "salz": 0.01,
-            "trockenhefe": 0.014000000000000002,
-            "st\u00e4rke": 0.07,
-            "vanillezucker": 0.05
-          }
-        ],
-        [
-          "f\u00fcllung",
-          {
-            "margerine": 0.15,
-            "gemahlene haseln\u00fcsse": 0.4,
-            "zucker": 0.35,
-            "zimt": 0.01
-          }
-        ]
-      ],
-      "instructions": "Volle 10 minuten kneten, im ernst! dann min. 30 min chillen lassen, ausrollen, f\u00fcllung verteilen, schnecken.\r\nAuf dem blech nochmal 20 min chillen lassen, dann 20 minuten bei 160 backen (sollen nur leicht br\u00e4unen).\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "geb\u00e4ck"
     },
     "91": {
       "name": "linsensuppe (alman style)",
@@ -1096,129 +887,6 @@
       "materials": [],
       "category": "geb\u00e4ck"
     },
-    "115": {
-      "name": "lasagne",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "bollo",
-          {
-            "sojahack (trocken)": 0.5,
-            "rote zwiebeln": 0.5,
-            "m\u00f6hren": 0.5,
-            "sojasahne": 0.5,
-            "knobi": 0.025,
-            "dosentomaten (passiert)": 1.5,
-            "helle sojasauce (glutenfrei)": 0.1,
-            "balsamico": 0.1,
-            "\u00f6l": 0.15,
-            "pasta": 1.2,
-            "rotwein": 0.4,
-            "lorbeer": 0.005,
-            "chili (pulver)": 0.001,
-            "salz": 0.02,
-            "pfeffer": 0.01
-          }
-        ],
-        [
-          "platten",
-          {
-            "lasagneplatten": 0.6
-          }
-        ],
-        [
-          "bechamel",
-          {
-            "sojamilch": 1.5,
-            "margerine": 0.15,
-            "mehl": 0.15,
-            "muskat": 0.001,
-            "salz": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "hauptgericht"
-    },
-    "116": {
-      "name": "wirsing mit cheesy mash",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "gem\u00fcse",
-          {
-            "wirsing": 1.0,
-            "zwiebeln": 0.2,
-            "tomatenmark": 0.2,
-            "r\u00e4uchertofu": 0.2,
-            "knobi": 0.025,
-            "zucker": 0.01,
-            "\u00f6l": 0.15,
-            "kreuzk\u00fcmmel": 0.01,
-            "ger\u00e4uchertes paprikapulver": 0.01,
-            "pfeffer": 0.01,
-            "salz": 0.02
-          }
-        ],
-        [
-          "cheesy mash",
-          {
-            "kartoffeln": 3.0,
-            "margerine": 0.3,
-            "genuss-block": 0.3,
-            "sojamilch": 0.3,
-            "knobi": 0.01,
-            "muskat": 0.001,
-            "salz": 0.02
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [
-        "",
-        "kartoffelstampfer"
-      ],
-      "category": "hauptgericht"
-    },
-    "117": {
-      "name": "sauerkraut mit kartoffelbrei",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "kraut",
-          {
-            "sauerkraut": 1.0,
-            "zwiebeln": 0.2,
-            "tomatenmark": 0.2,
-            "r\u00e4uchertofu": 0.2,
-            "knobi": 0.025,
-            "\u00f6l": 0.15,
-            "zucker": 0.01,
-            "kreuzk\u00fcmmel": 0.01,
-            "ger\u00e4uchertes paprikapulver": 0.01,
-            "salz": 0.01,
-            "pfeffer": 0.01
-          }
-        ],
-        [
-          "kap\u00fc",
-          {
-            "kartoffeln": 3.0,
-            "margerine": 0.6,
-            "sojamilch": 0.3,
-            "salz": 0.01,
-            "muskat": 0.001
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [
-        "",
-        "kartoffelstampfer"
-      ],
-      "category": "hauptgericht"
-    },
     "118": {
       "name": "quiche mit pilzen",
       "n_servings": 10.0,
@@ -1303,29 +971,6 @@
       "instructions": "",
       "materials": [],
       "category": "misc"
-    },
-    "124": {
-      "name": "salat",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "salat": 0.5,
-            "sn\u00e4ckgem\u00fcse": 0.5,
-            "sonnenblumenkerne": 0.05,
-            "senf": 0.05,
-            "oliven\u00f6l": 0.02,
-            "balsamico": 0.05,
-            "zucker": 0.01,
-            "salz": 0.02,
-            "pfeffer": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "salat"
     },
     "125": {
       "name": "zhenia's borschtch",
@@ -1441,84 +1086,6 @@
       "materials": [],
       "category": "hauptgericht"
     },
-    "129": {
-      "name": "gurkensalat",
-      "n_servings": 4.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "gurke": 0.3,
-            "rote zwiebeln": 0.05,
-            "frischer dill": 0.005,
-            "apfelessig": 0.01,
-            "\u00f6l": 0.01,
-            "zucker": 0.004,
-            "salz": 0.008,
-            "pfeffer": 0.002,
-            "sojasahne": 0.02
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [
-        "",
-        "love"
-      ],
-      "category": "salat"
-    },
-    "131": {
-      "name": "rotweinkuchen",
-      "n_servings": 8.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "mehl": 0.2,
-            "zucker": 0.12,
-            "gemahlene haseln\u00fcsse": 0.07,
-            "kuvert\u00fcre/schoki vegan": 0.06,
-            "margerine": 0.08,
-            "rotwein": 0.1,
-            "sojamilch": 0.125,
-            "kakao": 0.02,
-            "salz": 0.001,
-            "zimt": 0.001,
-            "backpulver": 0.01
-          }
-        ]
-      ],
-      "instructions": "180 grad ca 40 minuten\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "geb\u00e4ck"
-    },
-    "135": {
-      "name": "pasta arrabiata",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "so\u00dfe",
-          {
-            "knobi": 0.2,
-            "chili (pulver)": 0.01,
-            "oliven\u00f6l": 0.25,
-            "dosentomaten (gehackt)": 4.0,
-            "salz": 0.01,
-            "zucker": 0.01
-          }
-        ],
-        [
-          "nudels",
-          {
-            "pasta": 1.5,
-            "salz": 0.1
-          }
-        ]
-      ],
-      "instructions": "knobi und chili in \u00f6l braten, mit tomate abl\u00f6schen und f\u00fcr immer k\u00f6cheln lassen. mit zucker und salz abschmecken\r\n\r\n\r\n\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "hauptgericht"
-    },
     "136": {
       "name": "gulasch aus soja",
       "n_servings": 10.0,
@@ -1548,6 +1115,516 @@
       "instructions": "soja chunks mit kochendem salzwasser \u00fcbergie\u00dfen. zwiebelringe, ganzen knobi, ganzen pfeffer und lorbeer in \u00f6l braten. sojachunks ausquetschen und mitbraten bis sie golden werden. mit sojaso\u00dfe und rotwein abl\u00f6schen. tomaten zucker salz paprika dazutun und so lange wie m\u00f6glich k\u00f6cheln lassen. dann kartoffelkl\u00f6\u00dfe nach anleitung zubereiten.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
       "materials": [],
       "category": "eintopf"
+    },
+    "137": {
+      "name": "kaffe",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "kaffe": 0.12,
+            "hafermilch": 0.8,
+            "zucker": 0.04
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [
+        "kaffe filter"
+      ],
+      "category": "fr\u00fchst\u00fcck"
+    },
+    "138": {
+      "name": "wirsing mit cheesy mash",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "gem\u00fcse",
+          {
+            "wirsing": 1.0,
+            "zwiebeln": 0.2,
+            "tomatenmark": 0.2,
+            "r\u00e4uchertofu": 0.2,
+            "knobi": 0.025,
+            "zucker": 0.01,
+            "\u00f6l": 0.15,
+            "kreuzk\u00fcmmel": 0.01,
+            "ger\u00e4uchertes paprikapulver": 0.01,
+            "pfeffer": 0.01,
+            "salz": 0.02
+          }
+        ],
+        [
+          "cheesy mash",
+          {
+            "kartoffeln": 3.0,
+            "margerine": 0.3,
+            "genuss-block": 0.3,
+            "sojamilch": 0.3,
+            "knobi": 0.01,
+            "muskat": 0.001,
+            "salz": 0.02
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [
+        "kartoffelstampfer"
+      ],
+      "category": "hauptgericht"
+    },
+    "139": {
+      "name": "sauerkraut mit kartoffelbrei",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "kraut",
+          {
+            "sauerkraut": 1.0,
+            "zwiebeln": 0.2,
+            "tomatenmark": 0.2,
+            "r\u00e4uchertofu": 0.2,
+            "knobi": 0.025,
+            "\u00f6l": 0.15,
+            "zucker": 0.01,
+            "kreuzk\u00fcmmel": 0.01,
+            "ger\u00e4uchertes paprikapulver": 0.01,
+            "salz": 0.01,
+            "pfeffer": 0.01
+          }
+        ],
+        [
+          "kap\u00fc",
+          {
+            "kartoffeln": 3.0,
+            "margerine": 0.6,
+            "sojamilch": 0.3,
+            "salz": 0.01,
+            "muskat": 0.001
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [
+        "",
+        "kartoffelstampfer"
+      ],
+      "category": "hauptgericht"
+    },
+    "141": {
+      "name": "pasta arrabiata",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "so\u00dfe",
+          {
+            "knobi": 0.1,
+            "chili (pulver)": 0.01,
+            "oliven\u00f6l": 0.2,
+            "dosentomaten (gehackt)": 4.0,
+            "salz": 0.01,
+            "zucker": 0.01
+          }
+        ],
+        [
+          "nudels",
+          {
+            "pasta": 1.5,
+            "salz": 0.1
+          }
+        ]
+      ],
+      "instructions": "knobi und chili in \u00f6l braten, mit tomate abl\u00f6schen und f\u00fcr immer k\u00f6cheln lassen. mit zucker und salz abschmecken\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "142": {
+      "name": "krautsalat",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "wei\u00dfkohl": 1.0,
+            "apfelessig": 0.05,
+            "\u00f6l": 0.05,
+            "zucker": 0.05,
+            "schwarzk\u00fcmmel": 0.01,
+            "salz": 0.02,
+            "pfeffer": 0.01
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "salat"
+    },
+    "143": {
+      "name": "salat",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "salat": 0.5,
+            "sn\u00e4ckgem\u00fcse": 0.5,
+            "sonnenblumenkerne": 0.05,
+            "senf": 0.05,
+            "oliven\u00f6l": 0.02,
+            "balsamico": 0.02,
+            "zucker": 0.01,
+            "salz": 0.02,
+            "pfeffer": 0.01
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "salat"
+    },
+    "144": {
+      "name": "sonnenblumenkaramell topping",
+      "n_servings": 10,
+      "ingredients": [
+        [
+          "",
+          {
+            "sonnenblumenkerne": 0.05,
+            "zucker": 0.01,
+            "salz": 0.001
+          }
+        ]
+      ],
+      "instructions": "schale f\u00fcr die kerne bereitstellen. kerne in der pfanne r\u00f6sten, dauern umr\u00fchren! kurz vor fertig zucker und salz dazu und wirklich richtig dolle immer umr\u00fchren. wenn sie fertig sind sofort in die schale umf\u00fcllen sonst verbrennt alles ganz schlimm",
+      "materials": [],
+      "category": "misc"
+    },
+    "147": {
+      "name": "k\u00fcrbisschnecken mit orangenbutter",
+      "n_servings": 12.0,
+      "ingredients": [
+        [
+          "teig",
+          {
+            "k\u00fcrbis": 0.3,
+            "sojamilch": 0.25,
+            "trockenhefe": 0.07,
+            "rohrzucker": 0.02,
+            "mehl": 0.6,
+            "margerine": 0.05,
+            "salz": 0.002,
+            "backpapier": 1.0
+          }
+        ],
+        [
+          "fuellung",
+          {
+            "rohrzucker": 0.1,
+            "margerine": 0.125,
+            "gemahlene haseln\u00fcsse": 0.4,
+            "salz": 0.002,
+            "zimt": 0.01,
+            "ingwer (pulver)": 0.01,
+            "allspice": 0.01,
+            "muskat": 0.001
+          }
+        ],
+        [
+          "orangenbutter",
+          {
+            "bio-orangen": 0.05,
+            "vanillezucker": 0.008,
+            "margerine": 0.1,
+            "puderzucker": 0.15,
+            "salz": 0.02
+          }
+        ]
+      ],
+      "instructions": "enth\u00e4lt nicht alle Schritte\r\nDen Hokkaidok\u00fcrbis sch\u00e4len, entkernen und in kleine St\u00fccke schneiden. Entweder in einem Topf mit etwas Wasser garen oder in einem Sieb \u00fcber k\u00f6chelndem Wasser dampfgaren, bis der K\u00fcrbis weich ist.\r\n\r\nDie vegane Butter auf dem Teig verstreichen und mit der Zuckermischung und gehackten N\u00fcssen bestreuen. \r\n\r\nDen Backofen auf 180\u00b0C (Umluft) vorheizen und die K\u00fcrbisschnecken ca. 20-25 Minuten backen, bis sie goldbraun sind.\r\n\r\nOrangen-Buttercreme:\r\n\r\nVegane Butter auf Raumtemperatur mit Puderzucker aufschlagen, bis die Mischung cremig ist. Dann Vanilleextrakt, Orangenabrieb, Orangensaft und Salz dazugeben und vermengen.\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "geb\u00e4ck"
+    },
+    "149": {
+      "name": "lasagne",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "bollo",
+          {
+            "sojahack (trocken)": 0.5,
+            "rote zwiebeln": 0.5,
+            "m\u00f6hren": 0.5,
+            "sojasahne": 0.5,
+            "knobi": 0.025,
+            "dosentomaten (passiert)": 1.5,
+            "helle sojasauce (glutenfrei)": 0.1,
+            "balsamico": 0.1,
+            "\u00f6l": 0.15,
+            "rotwein": 0.4,
+            "lorbeer": 0.005,
+            "chili (pulver)": 0.001,
+            "salz": 0.02,
+            "pfeffer": 0.01
+          }
+        ],
+        [
+          "platten",
+          {
+            "lasagneplatten": 0.6
+          }
+        ],
+        [
+          "bechamel",
+          {
+            "sojamilch": 1.5,
+            "margerine": 0.15,
+            "mehl": 0.15,
+            "muskat": 0.001,
+            "salz": 0.01
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "150": {
+      "name": "gurkensalat",
+      "n_servings": 4.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "gurke": 0.3,
+            "rote zwiebeln": 0.05,
+            "frischer schnittlauch": 0.005,
+            "apfelessig": 0.01,
+            "\u00f6l": 0.01,
+            "zucker": 0.004,
+            "salz": 0.008,
+            "pfeffer": 0.002,
+            "sojasahne": 0.02
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "salat"
+    },
+    "151": {
+      "name": "eiersalat",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "eigelb",
+          {
+            "kichererbsen (trocken, nass x 2)": 0.24,
+            "kurkuma": 0.005,
+            "kala namak (eiersalz)": 0.005
+          }
+        ],
+        [
+          "eiweiss und gew\u00fcrze",
+          {
+            "pasta": 0.1,
+            "frischer schnittlauch": 0.025,
+            "zwiebeln": 0.08
+          }
+        ],
+        [
+          "majo",
+          {
+            "sojamilch": 0.15,
+            "\u00f6l": 0.3,
+            "senf": 0.02,
+            "balsamico (hell)": 0.02,
+            "pfeffer": 0.003,
+            "salz": 0.01
+          }
+        ]
+      ],
+      "instructions": "Majo-zutaten mischen und mit p\u00fcrierstab bearbeiten bis es majo ist. F\u00fcrs Eigelb Kichererbsen anmatschen und mit dem Rest vermischen. F\u00fcrs Eiwei\u00df gekochte Nudeln kleinschneiden. Alles mischen, lecker!\r\n\r",
+      "materials": [],
+      "category": "fr\u00fchst\u00fcck"
+    },
+    "155": {
+      "name": "m\u00f6hrensalat",
+      "n_servings": 4.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "m\u00f6hren": 0.3,
+            "sonnenblumenkerne": 0.05,
+            "zitronensaft": 0.01,
+            "oliven\u00f6l": 0.01,
+            "zucker": 0.006,
+            "salz": 0.008,
+            "pfeffer": 0.002,
+            "frische minze": 0.005
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "salat"
+    },
+    "157": {
+      "name": "k\u00e4se-lauch-hack-suppe",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "lauch": 1.0,
+            "zwiebeln": 0.2,
+            "knobi": 0.01,
+            "sojahack (trocken)": 0.4,
+            "sonnenblumenkerne": 0.3,
+            "helle sojasauce (glutenfrei)": 0.04,
+            "zucker": 0.04,
+            "mehl": 0.04,
+            "muskat": 0.001,
+            "hefeflocken": 0.1,
+            "sojasahne": 1.2,
+            "gem\u00fcsebr\u00fche": 0.1,
+            "\u00f6l": 0.2,
+            "salz": 0.02,
+            "pfeffer": 0.01
+          }
+        ]
+      ],
+      "instructions": "sojabr\u00f6sel einweichen. zwiebeln anschwitzen, knobi und sonnenblumenkerne dazu, dann den lauch drauf und braten. br\u00f6sel bisschen mitbraten, mit mehl best\u00e4uben, sojaso\u00dfe zum abl\u00f6schen und dann mit der br\u00fche aufgie\u00dfen. mit ordentlich hefeflocken abschmecken.\r\n\r\n\r",
+      "materials": [],
+      "category": "eintopf"
+    },
+    "158": {
+      "name": "britfast",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "baked beans": 2.0,
+            "w\u00fcrstchen": 0.5,
+            "champis": 1.0,
+            "tomaten": 1.0,
+            "zwiebeln": 1.0,
+            "tk-r\u00f6sti": 1.0,
+            "ketchup": 0.1
+          }
+        ]
+      ],
+      "instructions": "berechnet mit 2 kleine W\u00fcrste, 2 K-R\u00f6sti pro Person \u2013 dann ist noch Platz f\u00fcr Fleischsalat und M\u00fcsli im Bauch :)\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "fr\u00fchst\u00fcck"
+    },
+    "160": {
+      "name": "cookies",
+      "n_servings": 18.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "mehl": 0.4,
+            "zucker": 0.18,
+            "margerine": 0.25,
+            "vanillezucker": 0.015,
+            "backpulver": 0.01,
+            "kuvert\u00fcre/schoki vegan": 0.3,
+            "salz": 0.001,
+            "apfelmus": 0.05,
+            "backpapier": 1.0
+          }
+        ]
+      ],
+      "instructions": "Alles mischen, 180 grad, ergibt 2 cookies pro portion. kugeln aufs backblech, 12 min backen\r\n\r\n### Material\r\nBackofen\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "geb\u00e4ck"
+    },
+    "161": {
+      "name": "rotweinkuchen",
+      "n_servings": 8.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "mehl": 0.2,
+            "zucker": 0.12,
+            "gemahlene haseln\u00fcsse": 0.07,
+            "kuvert\u00fcre/schoki vegan": 0.06,
+            "margerine": 0.08,
+            "rotwein": 0.1,
+            "sojamilch": 0.125,
+            "kakao": 0.02,
+            "salz": 0.001,
+            "zimt": 0.001,
+            "backpulver": 0.01
+          }
+        ]
+      ],
+      "instructions": "180 grad ca 40 minuten\r\nin ein GN blech passen h\u00f6chstens 30 portionen\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "geb\u00e4ck"
+    },
+    "162": {
+      "name": "pilzrahm mit kl\u00f6\u00dfe",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "rote zwiebeln": 0.5,
+            "knobi": 0.05,
+            "champis": 1.5,
+            "soja chunks": 0.4,
+            "wei\u00dfwein": 0.5,
+            "sojasahne": 1.2,
+            "sojaso\u00dfe": 0.1,
+            "wei\u00dfweinessig": 0.08,
+            "frische petersilie": 0.1,
+            "klo\u00dfteig": 2.5,
+            "\u00f6l": 0.2,
+            "salz": 0.02,
+            "pfeffer": 0.01
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "164": {
+      "name": "legendary zimtschnecken",
+      "n_servings": 24.0,
+      "ingredients": [
+        [
+          "teig",
+          {
+            "mehl": 0.8,
+            "sojamilch": 0.6,
+            "zucker": 0.08,
+            "margerine": 0.12,
+            "salz": 0.01,
+            "trockenhefe": 0.014000000000000002,
+            "st\u00e4rke": 0.07,
+            "vanillezucker": 0.05
+          }
+        ],
+        [
+          "f\u00fcllung",
+          {
+            "margerine": 0.15,
+            "gemahlene haseln\u00fcsse": 0.2,
+            "zucker": 0.35,
+            "zimt": 0.01
+          }
+        ]
+      ],
+      "instructions": "Volle 10 minuten kneten, im ernst! dann min. 30 min chillen lassen, ausrollen, f\u00fcllung verteilen, schnecken.\r\nAuf dem blech nochmal 20 min chillen lassen, dann 20 minuten bei 160 backen (sollen nur leicht br\u00e4unen).\r\nmacht 1 schnecke pro portion\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "geb\u00e4ck"
     }
   }
 }
