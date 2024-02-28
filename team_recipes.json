@@ -93,31 +93,6 @@
       "materials": [],
       "category": "fr\u00fchst\u00fcck"
     },
-    "65": {
-      "name": "kichererbsencurry mit reis",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "zwiebeln": 0.5,
-            "knobi": 0.05,
-            "ingwer": 0.1,
-            "dosentomaten (passiert)": 0.5,
-            "sojasahne": 0.5,
-            "kichererbsen (trocken, nass x 2)": 0.5,
-            "basmati": 0.75,
-            "\u00f6l": 0.1,
-            "curry (pulver)": 0.01,
-            "chili (pulver)": 0.001,
-            "salz": 0.02
-          }
-        ]
-      ],
-      "instructions": "blend the zwiebeln, knobi and ingwer to a fine paste with some \u00f6l. fry the paste in more \u00f6l until it's golden and does not smell of raw zwiebeln. add spices, fry for a few seconds. add tomato paste and b\u00f6l for as long as you can. add kichererbsen and cream.\r\n\r\n### Material\r\nStabmixer\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "hauptgericht"
-    },
     "67": {
       "name": "chili",
       "n_servings": 10.0,
@@ -482,38 +457,6 @@
       "materials": [],
       "category": "salat"
     },
-    "91": {
-      "name": "linsensuppe (alman style)",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "zwiebeln": 0.5,
-            "m\u00f6hren": 0.3,
-            "kartoffeln": 0.5,
-            "lauch": 0.5,
-            "sellerie": 0.3,
-            "r\u00e4uchertofu": 0.3,
-            "braune linsen (tellerlinsen)": 0.5,
-            "senf": 0.2,
-            "apfelessig": 0.2,
-            "\u00f6l": 0.15,
-            "brot": 0.5,
-            "k\u00fcmmel": 0.01,
-            "frische petersilie": 0.05,
-            "lorbeer": 0.01,
-            "thymian": 0.01,
-            "zucker": 0.02,
-            "salz": 0.02,
-            "pfeffer": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "eintopf"
-    },
     "93": {
       "name": "mett",
       "n_servings": 8.0,
@@ -783,26 +726,6 @@
       "materials": [],
       "category": "geb\u00e4ck"
     },
-    "107": {
-      "name": "schokospa\u00df",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "margerine": 0.25,
-            "kakao": 0.04,
-            "kuvert\u00fcre/schoki vegan": 0.1,
-            "sojamilch": 0.1,
-            "zucker": 0.1,
-            "salz": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "fr\u00fchst\u00fcck"
-    },
     "108": {
       "name": "scrambled tofu",
       "n_servings": 10.0,
@@ -927,34 +850,6 @@
       "instructions": "Teig mit wasser kneten, vorbacken!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
       "materials": [],
       "category": "geb\u00e4ck"
-    },
-    "121": {
-      "name": "gulasch aus seitan mit kl\u00f6\u00dfen",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "seitanpulver": 0.6,
-            "rote zwiebeln": 0.5,
-            "knobi": 0.1,
-            "dosentomaten (ganz)": 1.5,
-            "tomatenmark": 0.2,
-            "rotwein": 0.5,
-            "helle sojasauce (glutenfrei)": 0.1,
-            "klo\u00dfteig": 2.5,
-            "\u00f6l": 0.2,
-            "lorbeer": 0.001,
-            "salz": 0.02,
-            "pfeffer ganz": 0.01,
-            "ger\u00e4uchertes paprikapulver": 0.01,
-            "zucker": 0.01
-          }
-        ]
-      ],
-      "instructions": "seitanpulver mit viel gew\u00fcrz. fry zwiebeln, whole knobi, whole pfeffer, laurel in \u00f6l. squeeze chunks dry and add to fry till golden. deglaze with soy sauce and wine. add tomato, zucker, salz and paprika to taste. simmer for as long as you can. then make potato dumplings as Anleitung say.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "hauptgericht"
     },
     "123": {
       "name": "knobi\u00f6l",
@@ -1174,44 +1069,6 @@
       ],
       "category": "hauptgericht"
     },
-    "139": {
-      "name": "sauerkraut mit kartoffelbrei",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "kraut",
-          {
-            "sauerkraut": 1.0,
-            "zwiebeln": 0.2,
-            "tomatenmark": 0.2,
-            "r\u00e4uchertofu": 0.2,
-            "knobi": 0.025,
-            "\u00f6l": 0.15,
-            "zucker": 0.01,
-            "kreuzk\u00fcmmel": 0.01,
-            "ger\u00e4uchertes paprikapulver": 0.01,
-            "salz": 0.01,
-            "pfeffer": 0.01
-          }
-        ],
-        [
-          "kap\u00fc",
-          {
-            "kartoffeln": 3.0,
-            "margerine": 0.6,
-            "sojamilch": 0.3,
-            "salz": 0.01,
-            "muskat": 0.001
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [
-        "",
-        "kartoffelstampfer"
-      ],
-      "category": "hauptgericht"
-    },
     "141": {
       "name": "pasta arrabiata",
       "n_servings": 10.0,
@@ -1412,42 +1269,6 @@
       "materials": [],
       "category": "salat"
     },
-    "151": {
-      "name": "eiersalat",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "eigelb",
-          {
-            "kichererbsen (trocken, nass x 2)": 0.24,
-            "kurkuma": 0.005,
-            "kala namak (eiersalz)": 0.005
-          }
-        ],
-        [
-          "eiweiss und gew\u00fcrze",
-          {
-            "pasta": 0.1,
-            "frischer schnittlauch": 0.025,
-            "zwiebeln": 0.08
-          }
-        ],
-        [
-          "majo",
-          {
-            "sojamilch": 0.15,
-            "\u00f6l": 0.3,
-            "senf": 0.02,
-            "balsamico (hell)": 0.02,
-            "pfeffer": 0.003,
-            "salz": 0.01
-          }
-        ]
-      ],
-      "instructions": "Majo-zutaten mischen und mit p\u00fcrierstab bearbeiten bis es majo ist. F\u00fcrs Eigelb Kichererbsen anmatschen und mit dem Rest vermischen. F\u00fcrs Eiwei\u00df gekochte Nudeln kleinschneiden. Alles mischen, lecker!\r\n\r",
-      "materials": [],
-      "category": "fr\u00fchst\u00fcck"
-    },
     "155": {
       "name": "m\u00f6hrensalat",
       "n_servings": 4.0,
@@ -1595,7 +1416,166 @@
       "materials": [],
       "category": "hauptgericht"
     },
-    "164": {
+    "165": {
+      "name": "obst",
+      "n_servings": 1,
+      "ingredients": [
+        [
+          "",
+          {
+            "obst": 0.1
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "misc"
+    },
+    "166": {
+      "name": "sn\u00e4ckgem\u00fcse",
+      "n_servings": 4,
+      "ingredients": [
+        [
+          "",
+          {
+            "m\u00f6hren": 0.1,
+            "gurke": 0.1,
+            "paprika": 0.1,
+            "tomaten": 0.1
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "misc"
+    },
+    "167": {
+      "name": "gulasch aus seitan mit kl\u00f6\u00dfen",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "seitan",
+          {
+            "seitanpulver": 0.6,
+            "helle sojasauce (glutenfrei)": 0.1,
+            "tomatenmark": 0.1,
+            "miso": 0.05,
+            "hefeflocken": 0.02,
+            "ger\u00e4uchertes paprikapulver": 0.01
+          }
+        ],
+        [
+          "so\u00dfe",
+          {
+            "rote zwiebeln": 0.5,
+            "knobi": 0.1,
+            "dosentomaten (ganz)": 1.5,
+            "rotwein": 0.6,
+            "\u00f6l": 0.2,
+            "lorbeer": 0.001,
+            "salz": 0.02,
+            "pfeffer ganz": 0.01,
+            "zucker": 0.01
+          }
+        ],
+        [
+          "kl\u00f6\u00dfe",
+          {
+            "klo\u00dfteig": 2.5
+          }
+        ]
+      ],
+      "instructions": "seitanpulver mit viel gew\u00fcrz und ca. 1:1 fl\u00fcssiggeit. fry zwiebeln, whole knobi, whole pfeffer, laurel in \u00f6l. add seitan to fry till golden. deglaze with soy sauce and wine. add tomato, zucker, salz and paprika to taste. simmer for as long as you can. then make potato dumplings as Anleitung say.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "170": {
+      "name": "seitangulasch mit gem\u00fcse",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "seitan",
+          {
+            "seitanpulver": 0.6,
+            "helle sojasauce (glutenfrei)": 0.1,
+            "tomatenmark": 0.1,
+            "miso": 0.05,
+            "hefeflocken": 0.02,
+            "ger\u00e4uchertes paprikapulver": 0.01
+          }
+        ],
+        [
+          "so\u00dfe",
+          {
+            "rote zwiebeln": 0.5,
+            "knobi": 0.1,
+            "champis": 0.5,
+            "paprika": 0.5,
+            "dosentomaten (ganz)": 1.2,
+            "rotwein": 0.6,
+            "\u00f6l": 0.2,
+            "lorbeer": 0.001,
+            "salz": 0.02,
+            "pfeffer ganz": 0.01,
+            "zucker": 0.01
+          }
+        ]
+      ],
+      "instructions": "seitanpulver mit viel gew\u00fcrz und ca. 1:1 fl\u00fcssiggeit verkneten, kann ruhig z\u00e4h sein. ungegart kleinschneiden und in der pfanne in \u00f6l braten. zwiebeln, ganzen knobi, ganzen pfeffer, lorbeer, gem\u00fcse dazu. mit wein abl\u00f6schen. tomate, zucker, salz und gew\u00fcrze dazu. so lange es geht k\u00f6cheln lassen.\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "eintopf"
+    },
+    "172": {
+      "name": "kartoffelbrei",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "kartoffeln": 3.0,
+            "margerine": 0.6,
+            "sojamilch": 0.3,
+            "salz": 0.01,
+            "muskat": 0.001
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "beilage"
+    },
+    "174": {
+      "name": "nudeln",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "pasta": 1.2,
+            "salz": 0.1
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "beilage"
+    },
+    "176": {
+      "name": "kl\u00f6\u00dfe",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "klo\u00dfteig": 2.5
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "beilage"
+    },
+    "177": {
       "name": "legendary zimtschnecken",
       "n_servings": 24.0,
       "ingredients": [
@@ -1606,8 +1586,8 @@
             "sojamilch": 0.6,
             "zucker": 0.08,
             "margerine": 0.12,
-            "salz": 0.01,
-            "trockenhefe": 0.014000000000000002,
+            "salz": 0.005,
+            "trockenhefe": 0.014,
             "st\u00e4rke": 0.07,
             "vanillezucker": 0.05
           }
@@ -1615,16 +1595,184 @@
         [
           "f\u00fcllung",
           {
-            "margerine": 0.15,
+            "margerine": 0.3,
             "gemahlene haseln\u00fcsse": 0.2,
             "zucker": 0.35,
-            "zimt": 0.01
+            "zimt": 0.006,
+            "salz": 0.0025
           }
         ]
       ],
-      "instructions": "Volle 10 minuten kneten, im ernst! dann min. 30 min chillen lassen, ausrollen, f\u00fcllung verteilen, schnecken.\r\nAuf dem blech nochmal 20 min chillen lassen, dann 20 minuten bei 160 backen (sollen nur leicht br\u00e4unen).\r\nmacht 1 schnecke pro portion\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "instructions": "Volle 10 minuten kneten, im ernst! dann min. 30 min chillen lassen, ausrollen, f\u00fcllung verteilen, schnecken.\r\nAuf dem blech nochmal 20 min chillen lassen, dann 20 minuten bei 160 backen (sollen nur leicht br\u00e4unen).\r\nmacht 1 schnecke pro portion\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
       "materials": [],
       "category": "geb\u00e4ck"
+    },
+    "178": {
+      "name": "eiersalat",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "eigelb",
+          {
+            "kichererbsen (trocken, nass x 2)": 0.16,
+            "kurkuma": 0.005,
+            "kala namak (eiersalz)": 0.005
+          }
+        ],
+        [
+          "eiweiss und gew\u00fcrze",
+          {
+            "pasta": 0.1,
+            "frischer schnittlauch": 0.025,
+            "zwiebeln": 0.08
+          }
+        ],
+        [
+          "majo",
+          {
+            "sojamilch": 0.15,
+            "\u00f6l": 0.3,
+            "senf": 0.02,
+            "balsamico (hell)": 0.02,
+            "pfeffer": 0.003,
+            "salz": 0.01
+          }
+        ]
+      ],
+      "instructions": "Majo-zutaten mischen und mit p\u00fcrierstab bearbeiten bis es majo ist. F\u00fcrs Eigelb Kichererbsen anmatschen und mit dem Rest vermischen. F\u00fcrs Eiwei\u00df gekochte Nudeln kleinschneiden. Alles mischen, lecker!\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "fr\u00fchst\u00fcck"
+    },
+    "180": {
+      "name": "kichererbsencurry mit reis",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "zwiebeln": 0.4,
+            "knobi": 0.05,
+            "ingwer": 0.1,
+            "dosentomaten (passiert)": 0.6,
+            "sojasahne": 0.5,
+            "kichererbsen (trocken, nass x 2)": 0.5,
+            "basmati": 0.75,
+            "\u00f6l": 0.1,
+            "curry (pulver)": 0.01,
+            "chili (pulver)": 0.001,
+            "salz": 0.02
+          }
+        ]
+      ],
+      "instructions": "blend the zwiebeln, knobi and ingwer to a fine paste with some \u00f6l. alternatively, chop finely. fry the paste in more \u00f6l until it's golden and does not smell of raw zwiebeln. add spices, fry for a few seconds. add tomato paste and boil for as long as you can. add kichererbsen and cream.\r\n\r\n### Material\r\nStabmixer\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "182": {
+      "name": "reis",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "basmati": 0.75,
+            "salz": 0.009
+          }
+        ]
+      ],
+      "instructions": "kleine mengen - 1 teil reis zu 1.75 wasser\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "beilage"
+    },
+    "183": {
+      "name": "sauerkraut mit kartoffelbrei",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "kraut",
+          {
+            "sauerkraut": 1.1,
+            "zwiebeln": 0.2,
+            "tomatenmark": 0.2,
+            "r\u00e4uchertofu": 0.2,
+            "knobi": 0.025,
+            "\u00f6l": 0.15,
+            "zucker": 0.01,
+            "kreuzk\u00fcmmel": 0.01,
+            "ger\u00e4uchertes paprikapulver": 0.01,
+            "salz": 0.01,
+            "pfeffer": 0.01,
+            "lorbeer": 0.01
+          }
+        ],
+        [
+          "kap\u00fc",
+          {
+            "kartoffeln": 3.0,
+            "margerine": 0.6,
+            "sojamilch": 0.3,
+            "salz": 0.01,
+            "muskat": 0.001
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [
+        "kartoffelstampfer",
+        ""
+      ],
+      "category": "hauptgericht"
+    },
+    "185": {
+      "name": "schokospa\u00df",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "margerine": 0.25,
+            "kakao": 0.04,
+            "kuvert\u00fcre/schoki vegan": 0.1,
+            "sojamilch": 0.06,
+            "zucker": 0.1,
+            "salz": 0.01
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "fr\u00fchst\u00fcck"
+    },
+    "186": {
+      "name": "linsensuppe (alman style)",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "zwiebeln": 0.5,
+            "m\u00f6hren": 0.3,
+            "kartoffeln": 0.5,
+            "lauch": 0.5,
+            "sellerie": 0.3,
+            "r\u00e4uchertofu": 0.3,
+            "braune linsen (tellerlinsen)": 0.5,
+            "senf": 0.2,
+            "apfelessig": 0.2,
+            "\u00f6l": 0.15,
+            "k\u00fcmmel": 0.01,
+            "frische petersilie": 0.02,
+            "lorbeer": 0.01,
+            "thymian": 0.01,
+            "zucker": 0.02,
+            "salz": 0.02,
+            "pfeffer": 0.01
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "eintopf"
     }
   }
 }
