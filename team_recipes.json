@@ -709,23 +709,6 @@
       "materials": [],
       "category": "geb\u00e4ck"
     },
-    "102": {
-      "name": "quiche mit lauch",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "mehl": 0.5,
-            "margerine": 0.375,
-            "salz": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "geb\u00e4ck"
-    },
     "108": {
       "name": "scrambled tofu",
       "n_servings": 10.0,
@@ -1773,6 +1756,77 @@
       "instructions": "",
       "materials": [],
       "category": "eintopf"
+    },
+    "189": {
+      "name": "quiche mit lauch",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "teig",
+          {
+            "mehl": 0.5,
+            "margerine": 0.375,
+            "salz": 0.01
+          }
+        ],
+        [
+          "f\u00fcllung pamps",
+          {
+            "tofu": 0.3,
+            "sojajoghurt": 0.5,
+            "st\u00e4rke": 0.05,
+            "kurkuma": 0.01,
+            "hefeflocken": 0.05,
+            "kala namak (eiersalz)": 0.01,
+            "salz": 0.01
+          }
+        ],
+        [
+          "f\u00fcllung gebraten",
+          {
+            "lauch": 1.0,
+            "r\u00e4uchertofu": 0.5,
+            "zwiebeln": 0.3,
+            "knobi": 0.04,
+            "zucker": 0.01,
+            "wei\u00dfwein": 0.1,
+            "pfeffer": 0.01
+          }
+        ]
+      ],
+      "instructions": "Teig mit wasser kneten, vorbacken!\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "geb\u00e4ck"
+    },
+    "190": {
+      "name": "gas mit sp\u00fclwasser",
+      "n_servings": 1,
+      "ingredients": [
+        [
+          "",
+          {
+            "propangas": 0.04
+          }
+        ]
+      ],
+      "instructions": "ein Tag vollverpflegung inkl. hei\u00dfwasser machen braucht eine 11kg Flasche pro 100 Leute",
+      "materials": [],
+      "category": "misc"
+    },
+    "191": {
+      "name": "gas ohne sp\u00fclwasser",
+      "n_servings": 1,
+      "ingredients": [
+        [
+          "",
+          {
+            "propangas": 0.02
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "misc"
     }
   }
 }
