@@ -93,39 +93,6 @@
       "materials": [],
       "category": "fr\u00fchst\u00fcck"
     },
-    "67": {
-      "name": "chili",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "zwiebeln": 0.5,
-            "knobi": 0.05,
-            "kartoffeln": 0.7,
-            "s\u00fc\u00dfkartoffeln": 0.7,
-            "kidneybohnen (trocken, nass x 4)": 0.25,
-            "wei\u00dfe bohnen (trocken, nass x 4)": 0.25,
-            "dosentomaten (passiert)": 1.25,
-            "dosenmais": 0.2,
-            "\u00f6l": 0.15,
-            "chili (pulver)": 0.001,
-            "kakao": 0.01,
-            "ger\u00e4uchertes paprikapulver": 0.01,
-            "oregano": 0.01,
-            "lorbeer": 0.001,
-            "zucker": 0.05,
-            "kreuzk\u00fcmmel": 0.01,
-            "zitronensaft": 0.05,
-            "pfeffer": 0.01,
-            "salz": 0.02
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "eintopf"
-    },
     "69": {
       "name": "apfelkuchen",
       "n_servings": 10.0,
@@ -228,34 +195,6 @@
       "instructions": "Couscous mit doppelter Menge hei\u00dfem Wasser aufgie\u00dfen und warten. N\u00fcsse und Zeug, was man da hat, rein, wenn es passt.\r\n\r\n\r\n\r\n\r\n\r\n\r",
       "materials": [],
       "category": "salat"
-    },
-    "76": {
-      "name": "fr\u00fchst\u00fcck (kaffe not included)",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "brot": 0.6,
-            "erdnussbutter": 0.1,
-            "marmelade": 0.15,
-            "haferflocken": 0.2,
-            "kuvert\u00fcre/schoki vegan": 0.05,
-            "erdn\u00fcsse": 0.05,
-            "veganes zuckerm\u00fcsli": 0.05,
-            "zuckereinh\u00f6rner": 0.01,
-            "sojamilch": 0.3,
-            "obst": 1.0,
-            "sn\u00e4ckgem\u00fcse": 1.0,
-            "margerine (kleine packungen)": 0.1,
-            "schwarztee": 0.01,
-            "kr\u00e4utertee": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "fr\u00fchst\u00fcck"
     },
     "77": {
       "name": "ful",
@@ -380,32 +319,6 @@
       "materials": [],
       "category": "fr\u00fchst\u00fcck"
     },
-    "89": {
-      "name": "mediterraner nudelsalat",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "pasta": 1.25,
-            "knobi": 0.025,
-            "schwarze oliven": 0.375,
-            "kapern": 0.1,
-            "getrocknete tomaten in \u00f6l": 0.375,
-            "waln\u00fcsse": 0.2,
-            "rucola": 0.1,
-            "oliven\u00f6l": 0.1,
-            "tomatenmark": 0.1,
-            "zucker": 0.025,
-            "salz": 0.025,
-            "balsamico": 0.05
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "salat"
-    },
     "93": {
       "name": "mett",
       "n_servings": 8.0,
@@ -425,36 +338,6 @@
       "instructions": "Reiswaffeln mit den Fingern zerkleinern, in eine Sch\u00fcssel tun und mit hei\u00dfem Wasser \u00fcbergie\u00dfen, sodass ein angenehmer Pamps entsteht.\r\n\r\n\r\n\r\n\r\n\r\n\r",
       "materials": [],
       "category": "fr\u00fchst\u00fcck"
-    },
-    "94": {
-      "name": "nudeln mit brokkilo-sahnesauce",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "so\u00dfe",
-          {
-            "zwiebeln": 0.5,
-            "knobi": 0.1,
-            "brokkoli": 1.0,
-            "r\u00e4uchertofu": 0.5,
-            "wei\u00dfwein": 0.4,
-            "sojasahne": 1.0,
-            "\u00f6l": 0.15,
-            "salz": 0.025,
-            "pfeffer": 0.01
-          }
-        ],
-        [
-          "nudeln",
-          {
-            "pasta": 1.5,
-            "salz": 0.1
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "hauptgericht"
     },
     "95": {
       "name": "nudelsalat classic",
@@ -699,27 +582,6 @@
         ]
       ],
       "instructions": "prepare a bowl to put the seeds. roast seeds in a pan (stir all the time!). add salz and zucker and caramelize (stir ALL THE TIME!), move them from pan to bowl immediately once they done. keep stirring until not ouch-hot. add \u00f6l and blend until smooth. add more \u00f6l if it does not go smooth.\r\n\r\n### Material\r\nStabmixer\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "fr\u00fchst\u00fcck"
-    },
-    "110": {
-      "name": "tomatenbutter",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "margerine": 0.3,
-            "tomatenmark": 0.3,
-            "knobi": 0.015,
-            "zwiebeln": 0.07,
-            "frische petersilie": 0.01,
-            "salz": 0.02,
-            "pfeffer": 0.01
-          }
-        ]
-      ],
-      "instructions": "Alles bis auf die Petersilie fein p\u00fcrieren. Petersilie hacken und unterr\u00fchren.\r\n\r\n### Material\r\nStabmixer\r\n\r\n\r\n\r",
       "materials": [],
       "category": "fr\u00fchst\u00fcck"
     },
@@ -1001,27 +863,6 @@
       "instructions": "knobi und chili in \u00f6l braten, mit tomate abl\u00f6schen und f\u00fcr immer k\u00f6cheln lassen. mit zucker und salz abschmecken\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
       "materials": [],
       "category": "hauptgericht"
-    },
-    "142": {
-      "name": "krautsalat",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "wei\u00dfkohl": 1.0,
-            "apfelessig": 0.05,
-            "\u00f6l": 0.05,
-            "zucker": 0.05,
-            "schwarzk\u00fcmmel": 0.01,
-            "salz": 0.02,
-            "pfeffer": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "salat"
     },
     "143": {
       "name": "salat",
@@ -1430,25 +1271,6 @@
       "instructions": "seitanpulver mit viel gew\u00fcrz und ca. 1:1 fl\u00fcssiggeit verkneten, kann ruhig z\u00e4h sein. ungegart kleinschneiden und in der pfanne in \u00f6l braten. zwiebeln, ganzen knobi, ganzen pfeffer, lorbeer, gem\u00fcse dazu. mit wein abl\u00f6schen. tomate, zucker, salz und gew\u00fcrze dazu. so lange es geht k\u00f6cheln lassen.\r\n\r\n\r\n\r",
       "materials": [],
       "category": "eintopf"
-    },
-    "172": {
-      "name": "kartoffelbrei",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "kartoffeln": 3.0,
-            "margerine": 0.6,
-            "sojamilch": 0.3,
-            "salz": 0.01,
-            "muskat": 0.001
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "beilage"
     },
     "174": {
       "name": "nudeln",
@@ -1859,32 +1681,6 @@
       ],
       "category": "hauptgericht"
     },
-    "206": {
-      "name": "hygiene",
-      "n_servings": 1.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "handseife": 1.0,
-            "sp\u00fcli": 1.0,
-            "schw\u00e4mme": 1.0,
-            "lappen": 1.0,
-            "stahlwolle": 1.0,
-            "desi": 1.0,
-            "k\u00fcchenrolle": 1.0,
-            "frischhaltefolie": 1.0,
-            "gummihandschuhe": 1.0,
-            "sp\u00fclhandschuhe": 1.0,
-            "m\u00fcllbeutel": 1.0,
-            "crewcare": 1.0
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "misc"
-    },
     "214": {
       "name": "caesersalat",
       "n_servings": 10.0,
@@ -1924,25 +1720,48 @@
       "materials": [],
       "category": "salat"
     },
-    "215": {
-      "name": "pancakes \u00e0 la arne vegetarisch",
-      "n_servings": 25.0,
+    "217": {
+      "name": "hygiene",
+      "n_servings": 1.0,
       "ingredients": [
         [
           "",
           {
-            "mehl (405)": 0.5,
-            "backpulver": 0.01,
-            "apfelessig": 0.02,
-            "eier (6 st\u00fcck)": 0.42,
-            "buttermilch": 0.5,
-            "karotten": 0.5,
-            "puderzucker": 0.3,
-            "frischk\u00e4se": 1.5,
-            "zimt": 0.05,
-            "muskat": 0.05,
-            "gemahlener ingwer": 0.05,
-            "zucker": 0.2
+            "handseife": 1.0,
+            "sp\u00fcli": 1.0,
+            "schw\u00e4mme": 1.0,
+            "lappen": 1.0,
+            "stahlwolle": 1.0,
+            "desi": 1.0,
+            "k\u00fcchenrolle": 1.0,
+            "frischhaltefolie": 1.0,
+            "gummihandschuhe": 1.0,
+            "sp\u00fclhandschuhe": 1.0,
+            "m\u00fcllbeutel": 1.0,
+            "crewcare": 1.0,
+            "fettl\u00f6ser": 1.0
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "misc"
+    },
+    "219": {
+      "name": "fr\u00fchst\u00fcck (kaffe not included)",
+      "n_servings": 6.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "brot": 0.6,
+            "erdnussbutter": 0.1,
+            "marmelade": 0.15,
+            "obst": 0.8,
+            "sn\u00e4ckgem\u00fcse": 1.0,
+            "margerine (kleine packungen)": 0.1,
+            "schwarztee": 0.01,
+            "kr\u00e4utertee": 0.01
           }
         ]
       ],
@@ -1950,32 +1769,225 @@
       "materials": [],
       "category": "fr\u00fchst\u00fcck"
     },
-    "216": {
-      "name": "kaiserrschmarren \u00e0 la hendrik vegetarisch",
-      "n_servings": 25.0,
+    "224": {
+      "name": "krautsalat",
+      "n_servings": 10.0,
       "ingredients": [
         [
           "",
           {
-            "eier (16 st\u00fcck)": 1.12,
-            "mehl (405)": 0.48,
-            "vanilleschoten (4 st\u00fcck)": 0.016,
-            "milch": 1.0,
-            "butter": 0.5,
-            "rosinen": 0.32,
-            "mandel gehobelt": 0.2,
-            "apfelsaft": 1.0,
-            "zucker": 0.2,
-            "salz": 0.02
+            "wei\u00dfkohl": 0.75,
+            "apfelessig": 0.05,
+            "\u00f6l": 0.05,
+            "zucker": 0.05,
+            "schwarzk\u00fcmmel": 0.01,
+            "salz": 0.02,
+            "pfeffer": 0.01
           }
         ]
       ],
       "instructions": "",
-      "materials": [
-        "",
-        "schneebesen"
+      "materials": [],
+      "category": "salat"
+    },
+    "225": {
+      "name": "kartoffeln",
+      "n_servings": 10,
+      "ingredients": [
+        [
+          "",
+          {
+            "kartoffeln": 3.0,
+            "salz": 0.06
+          }
+        ]
       ],
+      "instructions": "",
+      "materials": [],
+      "category": "beilage"
+    },
+    "226": {
+      "name": "brokkoli-sahnesauce",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "so\u00dfe",
+          {
+            "zwiebeln": 0.5,
+            "knobi": 0.1,
+            "brokkoli": 1.0,
+            "r\u00e4uchertofu": 0.5,
+            "wei\u00dfwein": 0.4,
+            "sojasahne": 1.0,
+            "\u00f6l": 0.15,
+            "salz": 0.025,
+            "pfeffer": 0.01
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "229": {
+      "name": "peacamole",
+      "n_servings": 12.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "tk-erbsen": 0.5,
+            "rote zwiebeln": 0.1,
+            "tomaten": 0.2,
+            "oliven\u00f6l": 0.0375,
+            "knobi": 0.005,
+            "limettensaft": 0.015,
+            "frische petersilie": 0.05,
+            "salz": 0.0075,
+            "pfeffer": 0.0025
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
       "category": "fr\u00fchst\u00fcck"
+    },
+    "230": {
+      "name": "gnocchi",
+      "n_servings": 1,
+      "ingredients": [
+        [
+          "",
+          {
+            "gnocchi": 0.27
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "beilage"
+    },
+    "231": {
+      "name": "chili",
+      "n_servings": 6.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "zwiebeln": 0.2,
+            "knobi": 0.05,
+            "naturtofu": 0.2,
+            "kartoffeln": 0.2,
+            "paprika gr\u00fcn": 0.2,
+            "m\u00f6hren": 0.2,
+            "kidneybohnen (trocken, nass x 4)": 0.2,
+            "dosentomaten (passiert)": 0.8,
+            "dosenmais": 0.1,
+            "\u00f6l": 0.15,
+            "chili (pulver)": 0.001,
+            "steinpilze": 0.001,
+            "kakao": 0.005,
+            "oregano": 0.005,
+            "lorbeer": 0.001,
+            "zucker": 0.02,
+            "kreuzk\u00fcmmel": 0.001,
+            "helle sojasauce (glutenfrei)": 0.06,
+            "orangensaft": 0.1,
+            "pfeffer": 0.005,
+            "salz": 0.01
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "eintopf"
+    },
+    "232": {
+      "name": "m\u00fcsli",
+      "n_servings": 2.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "haferflocken": 0.13,
+            "kuvert\u00fcre/schoki vegan": 0.05,
+            "erdn\u00fcsse": 0.05,
+            "veganes zuckerm\u00fcsli": 0.05,
+            "zuckereinh\u00f6rner": 0.005,
+            "sojamilch": 0.15,
+            "hafermilch": 0.15,
+            "obst": 0.2
+          }
+        ]
+      ],
+      "instructions": "schoki und n\u00fcsse hacken, alles vermischen.\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "fr\u00fchst\u00fcck"
+    },
+    "233": {
+      "name": "mediterraner nudelsalat",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "pasta": 1.25,
+            "knobi": 0.025,
+            "schwarze oliven": 0.38,
+            "kapern": 0.05,
+            "getrocknete tomaten in \u00f6l": 0.38,
+            "waln\u00fcsse": 0.25,
+            "oliven\u00f6l": 0.1,
+            "tomatenmark": 0.1,
+            "zucker": 0.025,
+            "salz": 0.025,
+            "balsamico": 0.05
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "salat"
+    },
+    "234": {
+      "name": "tomatenbutter",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "margerine": 0.3,
+            "tomatenmark": 0.3,
+            "knobi": 0.004,
+            "zwiebeln": 0.05,
+            "frische petersilie": 0.01,
+            "salz": 0.02,
+            "pfeffer": 0.01
+          }
+        ]
+      ],
+      "instructions": "Alles bis auf die Petersilie fein p\u00fcrieren. Petersilie hacken und unterr\u00fchren.\r\n\r\n### Material\r\nStabmixer\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "fr\u00fchst\u00fcck"
+    },
+    "235": {
+      "name": "kartoffelbrei",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "kartoffeln": 3.0,
+            "margerine": 0.5,
+            "sojamilch": 0.3,
+            "salz": 0.02,
+            "muskat": 0.001
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "beilage"
     }
   }
 }

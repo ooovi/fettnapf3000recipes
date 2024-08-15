@@ -1,0 +1,1132 @@
+{
+  "_default": {
+    "1": {
+      "english": "coconut milk",
+      "category": "nometro",
+      "ingredient": "kokosmilch",
+      "allergens": []
+    },
+    "2": {
+      "english": "kala namak salt",
+      "category": "nometro",
+      "ingredient": "kala namak (eiersalz)",
+      "allergens": []
+    },
+    "3": {
+      "english": "coconut oil",
+      "category": "nometro",
+      "ingredient": "kokosfett",
+      "allergens": []
+    },
+    "4": {
+      "english": "black olives",
+      "category": "nometro",
+      "ingredient": "schwarze oliven",
+      "allergens": []
+    },
+    "5": {
+      "english": "nutritional yeast",
+      "category": "nometro",
+      "ingredient": "hefeflocken",
+      "allergens": []
+    },
+    "6": {
+      "english": "light soy sauce (gluten free)",
+      "category": "nometro",
+      "ingredient": "helle sojasauce (glutenfrei)",
+      "allergens": []
+    },
+    "7": {
+      "english": "peanut butter",
+      "category": "nometro",
+      "ingredient": "erdnussbutter",
+      "allergens": [
+        "erdn\u00fcsse"
+      ]
+    },
+    "8": {
+      "english": "black sesame seeds",
+      "category": "nometro",
+      "ingredient": "schwarzer sesam",
+      "allergens": [
+        "sesam"
+      ]
+    },
+    "9": {
+      "english": "sticky rice",
+      "category": "nometro",
+      "ingredient": "klebreis",
+      "allergens": []
+    },
+    "10": {
+      "english": "soy chunks",
+      "category": "nometro",
+      "ingredient": "soja chunks",
+      "allergens": [
+        "soja"
+      ]
+    },
+    "11": {
+      "english": "tempeh",
+      "category": "nometro",
+      "ingredient": "tempeh",
+      "allergens": [
+        "soja",
+        "histamin"
+      ]
+    },
+    "12": {
+      "english": "tahini",
+      "category": "nometro",
+      "ingredient": "tahin",
+      "allergens": [
+        "sesam"
+      ]
+    },
+    "13": {
+      "english": "miso",
+      "category": "nometro",
+      "ingredient": "miso",
+      "allergens": [
+        "histamin",
+        "soja"
+      ]
+    },
+    "14": {
+      "english": "tofu",
+      "category": "nometro",
+      "ingredient": "tofu",
+      "allergens": [
+        "soja"
+      ]
+    },
+    "15": {
+      "english": "tempe",
+      "category": "nometro",
+      "ingredient": "tempe",
+      "allergens": [
+        "soja",
+        "histamin"
+      ]
+    },
+    "16": {
+      "english": "soy bean sprouts",
+      "category": "nometro",
+      "ingredient": "sojasprossen",
+      "allergens": [
+        "soja"
+      ]
+    },
+    "17": {
+      "english": "wheat gluten powder",
+      "category": "nometro",
+      "ingredient": "seitanpulver",
+      "allergens": [
+        "gluten"
+      ]
+    },
+    "18": {
+      "english": "gas",
+      "category": "hygiene",
+      "ingredient": "gas",
+      "allergens": []
+    },
+    "19": {
+      "english": "disinfectant",
+      "category": "hygiene",
+      "ingredient": "desi",
+      "allergens": []
+    },
+    "20": {
+      "english": "trash bags",
+      "category": "hygiene",
+      "ingredient": "m\u00fcllbeutel",
+      "allergens": []
+    },
+    "21": {
+      "english": "sponges",
+      "category": "hygiene",
+      "ingredient": "schw\u00e4mme",
+      "allergens": []
+    },
+    "22": {
+      "english": "lappen",
+      "category": "hygiene",
+      "ingredient": "lappen",
+      "allergens": []
+    },
+    "23": {
+      "english": "steel wool",
+      "category": "hygiene",
+      "ingredient": "stahlwolle",
+      "allergens": []
+    },
+    "24": {
+      "english": "paper towels",
+      "category": "hygiene",
+      "ingredient": "k\u00fcchenrolle",
+      "allergens": []
+    },
+    "25": {
+      "english": "dishwashing soap",
+      "category": "hygiene",
+      "ingredient": "sp\u00fcli",
+      "allergens": []
+    },
+    "26": {
+      "english": "degreaser",
+      "category": "hygiene",
+      "ingredient": "fettl\u00f6ser",
+      "allergens": []
+    },
+    "27": {
+      "english": "hand soap",
+      "category": "hygiene",
+      "ingredient": "handseife",
+      "allergens": []
+    },
+    "28": {
+      "english": "rubber gloves",
+      "category": "hygiene",
+      "ingredient": "gummihandschuhe",
+      "allergens": []
+    },
+    "29": {
+      "english": "dishwashing gloves",
+      "category": "hygiene",
+      "ingredient": "sp\u00fclhandschuhe",
+      "allergens": []
+    },
+    "30": {
+      "english": "baking sheets",
+      "category": "hygiene",
+      "ingredient": "backpapier",
+      "allergens": []
+    },
+    "31": {
+      "english": "cling film",
+      "category": "hygiene",
+      "ingredient": "frischhaltefolie",
+      "allergens": []
+    },
+    "32": {
+      "english": "red wine",
+      "category": "getr\u00e4nke",
+      "ingredient": "rotwein",
+      "allergens": [
+        "alkohol",
+        "histamin"
+      ]
+    },
+    "33": {
+      "english": "lemon juice",
+      "category": "getr\u00e4nke",
+      "ingredient": "zitronensaft",
+      "allergens": []
+    },
+    "34": {
+      "english": "orange juice",
+      "category": "getr\u00e4nke",
+      "ingredient": "orangensaft",
+      "allergens": []
+    },
+    "35": {
+      "english": "lime juice",
+      "category": "getr\u00e4nke",
+      "ingredient": "limettensaft",
+      "allergens": []
+    },
+    "36": {
+      "english": "white wine",
+      "category": "getr\u00e4nke",
+      "ingredient": "wei\u00dfwein",
+      "allergens": [
+        "alkohol"
+      ]
+    },
+    "37": {
+      "english": "vodka",
+      "category": "getr\u00e4nke",
+      "ingredient": "wodka",
+      "allergens": [
+        "alkohol"
+      ]
+    },
+    "38": {
+      "english": "tomatos",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "tomaten",
+      "allergens": []
+    },
+    "39": {
+      "english": "cucumber",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "gurke",
+      "allergens": []
+    },
+    "40": {
+      "english": "mushrooms",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "champis",
+      "allergens": []
+    },
+    "41": {
+      "english": "savoy cabbage",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "wirsing",
+      "allergens": []
+    },
+    "42": {
+      "english": "white cabbage",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "wei\u00dfkohl",
+      "allergens": []
+    },
+    "43": {
+      "english": "carrots",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "m\u00f6hren",
+      "allergens": []
+    },
+    "44": {
+      "english": "fresh spinach",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "frischer spinat",
+      "allergens": []
+    },
+    "45": {
+      "english": "fresh mint",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "frische minze",
+      "allergens": []
+    },
+    "46": {
+      "english": "fresh parsley",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "frische petersilie",
+      "allergens": []
+    },
+    "47": {
+      "english": "spring onions",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "fr\u00fchlingszwiebeln",
+      "allergens": [
+        "zwiebel"
+      ]
+    },
+    "48": {
+      "english": "fresh dill",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "frischer dill",
+      "allergens": []
+    },
+    "49": {
+      "english": "fresh chives",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "frischer schnittlauch",
+      "allergens": [
+        "zwiebel"
+      ]
+    },
+    "50": {
+      "english": "onions",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "zwiebeln",
+      "allergens": [
+        "zwiebel"
+      ]
+    },
+    "51": {
+      "english": "red onions",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "rote zwiebeln",
+      "allergens": [
+        "zwiebel"
+      ]
+    },
+    "52": {
+      "english": "garlic",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "knobi",
+      "allergens": [
+        "knobi"
+      ]
+    },
+    "53": {
+      "english": "salad",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "salat",
+      "allergens": []
+    },
+    "54": {
+      "english": "rucola",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "rucola",
+      "allergens": []
+    },
+    "55": {
+      "english": "snack veggies",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "sn\u00e4ckgem\u00fcse",
+      "allergens": []
+    },
+    "56": {
+      "english": "fryable veggies",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "bratgem\u00fcse",
+      "allergens": []
+    },
+    "57": {
+      "english": "fruit",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "obst",
+      "allergens": []
+    },
+    "58": {
+      "english": "apples",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "\u00e4pfel",
+      "allergens": []
+    },
+    "59": {
+      "english": "pears",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "birnen",
+      "allergens": []
+    },
+    "60": {
+      "english": "lime",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "limetten",
+      "allergens": []
+    },
+    "61": {
+      "english": "lemon",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "zitronen",
+      "allergens": []
+    },
+    "62": {
+      "english": "organic orange",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "bio-orangen",
+      "allergens": []
+    },
+    "63": {
+      "english": "sweet potatos",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "s\u00fc\u00dfkartoffeln",
+      "allergens": []
+    },
+    "64": {
+      "english": "potatos",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "kartoffeln",
+      "allergens": []
+    },
+    "65": {
+      "english": "brokkoli",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "brokkoli",
+      "allergens": []
+    },
+    "66": {
+      "english": "green beans",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "gr\u00fcne bohnen",
+      "allergens": []
+    },
+    "67": {
+      "english": "ginger",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "ingwer",
+      "allergens": []
+    },
+    "68": {
+      "english": "pumpkin",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "k\u00fcrbis",
+      "allergens": []
+    },
+    "69": {
+      "english": "bell pepper",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "paprika",
+      "allergens": []
+    },
+    "70": {
+      "english": "green bell pepper",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "paprika gr\u00fcn",
+      "allergens": []
+    },
+    "71": {
+      "english": "celery",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "sellerie",
+      "allergens": []
+    },
+    "72": {
+      "english": "butternut pumpkin",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "butternutk\u00fcrbis",
+      "allergens": []
+    },
+    "73": {
+      "english": "leek",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "lauch",
+      "allergens": [
+        "lauch"
+      ]
+    },
+    "74": {
+      "english": "beetroot (fresh)",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "rote beete (roh)",
+      "allergens": []
+    },
+    "75": {
+      "english": "propane gas",
+      "category": "dosen",
+      "ingredient": "propangas",
+      "allergens": []
+    },
+    "76": {
+      "english": "canned tomatos (chopped)",
+      "category": "dosen",
+      "ingredient": "dosentomaten (gehackt)",
+      "allergens": []
+    },
+    "77": {
+      "english": "canned tomatos (whole)",
+      "category": "dosen",
+      "ingredient": "dosentomaten (ganz)",
+      "allergens": []
+    },
+    "78": {
+      "english": "canned tomatos (paste)",
+      "category": "dosen",
+      "ingredient": "dosentomaten (passiert)",
+      "allergens": []
+    },
+    "79": {
+      "english": "tomato concentrate",
+      "category": "dosen",
+      "ingredient": "tomatenmark",
+      "allergens": []
+    },
+    "80": {
+      "english": "pickled cucumber",
+      "category": "dosen",
+      "ingredient": "saure gurken",
+      "allergens": []
+    },
+    "81": {
+      "english": "canned sweet corn",
+      "category": "dosen",
+      "ingredient": "dosenmais",
+      "allergens": []
+    },
+    "82": {
+      "english": "canned green peas",
+      "category": "dosen",
+      "ingredient": "dosenerbsen",
+      "allergens": [
+        "h\u00fclsenfr\u00fcchte"
+      ]
+    },
+    "83": {
+      "english": "canned black beans",
+      "category": "dosen",
+      "ingredient": "schwarze bohnen (dose)",
+      "allergens": [
+        "h\u00fclsenfr\u00fcchte"
+      ]
+    },
+    "84": {
+      "english": "beetroot (pre-cooked)",
+      "category": "dosen",
+      "ingredient": "rote beete (gekocht)",
+      "allergens": []
+    },
+    "85": {
+      "english": "baked beans",
+      "category": "dosen",
+      "ingredient": "baked beans",
+      "allergens": [
+        "h\u00fclsenfr\u00fcchte"
+      ]
+    },
+    "86": {
+      "english": "sauerkraut",
+      "category": "dosen",
+      "ingredient": "sauerkraut",
+      "allergens": []
+    },
+    "87": {
+      "english": "applesauce",
+      "category": "dosen",
+      "ingredient": "apfelmus",
+      "allergens": []
+    },
+    "88": {
+      "english": "cane sugar",
+      "category": "backen",
+      "ingredient": "rohrzucker",
+      "allergens": []
+    },
+    "89": {
+      "english": "flour",
+      "category": "backen",
+      "ingredient": "mehl",
+      "allergens": [
+        "gluten"
+      ]
+    },
+    "90": {
+      "english": "cornstarch",
+      "category": "backen",
+      "ingredient": "st\u00e4rke",
+      "allergens": []
+    },
+    "91": {
+      "english": "natron",
+      "category": "backen",
+      "ingredient": "natron",
+      "allergens": []
+    },
+    "92": {
+      "english": "dry yeast",
+      "category": "backen",
+      "ingredient": "trockenhefe",
+      "allergens": []
+    },
+    "93": {
+      "english": "sugar",
+      "category": "backen",
+      "ingredient": "zucker",
+      "allergens": []
+    },
+    "94": {
+      "english": "cocoa powder",
+      "category": "backen",
+      "ingredient": "kakao",
+      "allergens": []
+    },
+    "95": {
+      "english": "chocolate",
+      "category": "backen",
+      "ingredient": "kuvert\u00fcre/schoki vegan",
+      "allergens": []
+    },
+    "96": {
+      "english": "vanilla sugar",
+      "category": "backen",
+      "ingredient": "vanillezucker",
+      "allergens": []
+    },
+    "97": {
+      "english": "sugar unicorns",
+      "category": "backen",
+      "ingredient": "zuckereinh\u00f6rner",
+      "allergens": []
+    },
+    "98": {
+      "english": "powdered sugar",
+      "category": "backen",
+      "ingredient": "puderzucker",
+      "allergens": []
+    },
+    "99": {
+      "english": "ground hazelnuts",
+      "category": "backen",
+      "ingredient": "gemahlene haseln\u00fcsse",
+      "allergens": [
+        "haseln\u00fcsse"
+      ]
+    },
+    "100": {
+      "english": "baking powder",
+      "category": "backen",
+      "ingredient": "backpulver",
+      "allergens": []
+    },
+    "101": {
+      "english": "olive oil",
+      "category": "\u00f6l/essig",
+      "ingredient": "oliven\u00f6l",
+      "allergens": []
+    },
+    "102": {
+      "english": "linseed oil",
+      "category": "\u00f6l/essig",
+      "ingredient": "lein\u00f6l",
+      "allergens": []
+    },
+    "103": {
+      "english": "oil",
+      "category": "\u00f6l/essig",
+      "ingredient": "\u00f6l",
+      "allergens": []
+    },
+    "104": {
+      "english": "balsamico",
+      "category": "\u00f6l/essig",
+      "ingredient": "balsamico",
+      "allergens": [
+        "histamin"
+      ]
+    },
+    "105": {
+      "english": "balsamico (white)",
+      "category": "\u00f6l/essig",
+      "ingredient": "balsamico (hell)",
+      "allergens": []
+    },
+    "106": {
+      "english": "apple cider vinegar",
+      "category": "\u00f6l/essig",
+      "ingredient": "apfelessig",
+      "allergens": []
+    },
+    "107": {
+      "english": "white wine vinegar",
+      "category": "\u00f6l/essig",
+      "ingredient": "wei\u00dfweinessig",
+      "allergens": []
+    },
+    "108": {
+      "english": "laurel leaves",
+      "category": "gew\u00fcrze",
+      "ingredient": "lorbeer",
+      "allergens": []
+    },
+    "109": {
+      "english": "pepper",
+      "category": "gew\u00fcrze",
+      "ingredient": "pfeffer",
+      "allergens": []
+    },
+    "110": {
+      "english": "pepper whole",
+      "category": "gew\u00fcrze",
+      "ingredient": "pfeffer ganz",
+      "allergens": []
+    },
+    "111": {
+      "english": "salt",
+      "category": "gew\u00fcrze",
+      "ingredient": "salz",
+      "allergens": []
+    },
+    "112": {
+      "english": "mustard",
+      "category": "gew\u00fcrze",
+      "ingredient": "senf",
+      "allergens": []
+    },
+    "113": {
+      "english": "nutmeg",
+      "category": "gew\u00fcrze",
+      "ingredient": "muskat",
+      "allergens": []
+    },
+    "114": {
+      "english": "smoked paprika",
+      "category": "gew\u00fcrze",
+      "ingredient": "ger\u00e4uchertes paprikapulver",
+      "allergens": []
+    },
+    "115": {
+      "english": "cumin",
+      "category": "gew\u00fcrze",
+      "ingredient": "kreuzk\u00fcmmel",
+      "allergens": []
+    },
+    "116": {
+      "english": "thyme",
+      "category": "gew\u00fcrze",
+      "ingredient": "thymian",
+      "allergens": []
+    },
+    "117": {
+      "english": "caraway",
+      "category": "gew\u00fcrze",
+      "ingredient": "k\u00fcmmel",
+      "allergens": []
+    },
+    "118": {
+      "english": "vanilla",
+      "category": "gew\u00fcrze",
+      "ingredient": "vanille",
+      "allergens": []
+    },
+    "119": {
+      "english": "black onion seeds",
+      "category": "gew\u00fcrze",
+      "ingredient": "schwarzk\u00fcmmel",
+      "allergens": []
+    },
+    "120": {
+      "english": "turmeric",
+      "category": "gew\u00fcrze",
+      "ingredient": "kurkuma",
+      "allergens": []
+    },
+    "121": {
+      "english": "cinnamon",
+      "category": "gew\u00fcrze",
+      "ingredient": "zimt",
+      "allergens": []
+    },
+    "122": {
+      "english": "oregano",
+      "category": "gew\u00fcrze",
+      "ingredient": "oregano",
+      "allergens": []
+    },
+    "123": {
+      "english": "rosemary",
+      "category": "gew\u00fcrze",
+      "ingredient": "rosmarin",
+      "allergens": []
+    },
+    "124": {
+      "english": "allspice",
+      "category": "gew\u00fcrze",
+      "ingredient": "allspice",
+      "allergens": []
+    },
+    "125": {
+      "english": "curry powder",
+      "category": "gew\u00fcrze",
+      "ingredient": "curry (pulver)",
+      "allergens": []
+    },
+    "126": {
+      "english": "paprika powder",
+      "category": "gew\u00fcrze",
+      "ingredient": "paprika (pulver)",
+      "allergens": []
+    },
+    "127": {
+      "english": "chili powder",
+      "category": "gew\u00fcrze",
+      "ingredient": "chili (pulver)",
+      "allergens": []
+    },
+    "128": {
+      "english": "ginger powder",
+      "category": "gew\u00fcrze",
+      "ingredient": "ingwer (pulver)",
+      "allergens": []
+    },
+    "129": {
+      "english": "vegetable broth",
+      "category": "gew\u00fcrze",
+      "ingredient": "gem\u00fcsebr\u00fche",
+      "allergens": []
+    },
+    "130": {
+      "english": "sojahack (dry)",
+      "category": "trockenware",
+      "ingredient": "sojahack (trocken)",
+      "allergens": [
+        "soja"
+      ]
+    },
+    "131": {
+      "english": "lasagna sheets",
+      "category": "trockenware",
+      "ingredient": "lasagneplatten",
+      "allergens": [
+        "gluten"
+      ]
+    },
+    "132": {
+      "english": "pasta",
+      "category": "trockenware",
+      "ingredient": "pasta",
+      "allergens": [
+        "gluten"
+      ]
+    },
+    "133": {
+      "english": "couscous",
+      "category": "trockenware",
+      "ingredient": "couscous",
+      "allergens": [
+        "gluten"
+      ]
+    },
+    "134": {
+      "english": "gr\u00fcnkern",
+      "category": "trockenware",
+      "ingredient": "gr\u00fcnkern",
+      "allergens": [
+        "gluten"
+      ]
+    },
+    "135": {
+      "english": "basmati",
+      "category": "trockenware",
+      "ingredient": "basmati",
+      "allergens": []
+    },
+    "136": {
+      "english": "short grain rice",
+      "category": "trockenware",
+      "ingredient": "milchreis",
+      "allergens": []
+    },
+    "137": {
+      "english": "brown lentils",
+      "category": "trockenware",
+      "ingredient": "braune linsen (tellerlinsen)",
+      "allergens": [
+        "h\u00fclsenfr\u00fcchte"
+      ]
+    },
+    "138": {
+      "english": "red lentils",
+      "category": "trockenware",
+      "ingredient": "rote linsen",
+      "allergens": [
+        "h\u00fclsenfr\u00fcchte"
+      ]
+    },
+    "139": {
+      "english": "sunflower seeds",
+      "category": "trockenware",
+      "ingredient": "sonnenblumenkerne",
+      "allergens": []
+    },
+    "140": {
+      "english": "kidney beans (dry, wet x 4)",
+      "category": "trockenware",
+      "ingredient": "kidneybohnen (trocken, nass x 4)",
+      "allergens": [
+        "h\u00fclsenfr\u00fcchte"
+      ]
+    },
+    "141": {
+      "english": "white beans (dry, wet x 4)",
+      "category": "trockenware",
+      "ingredient": "wei\u00dfe bohnen (trocken, nass x 4)",
+      "allergens": [
+        "h\u00fclsenfr\u00fcchte"
+      ]
+    },
+    "142": {
+      "english": "chickpeas (dry, wet x 2)",
+      "category": "trockenware",
+      "ingredient": "kichererbsen (trocken, nass x 2)",
+      "allergens": [
+        "h\u00fclsenfr\u00fcchte"
+      ]
+    },
+    "143": {
+      "english": "capers",
+      "category": "trockenware",
+      "ingredient": "kapern",
+      "allergens": []
+    },
+    "144": {
+      "english": "dried tomatos in oil",
+      "category": "trockenware",
+      "ingredient": "getrocknete tomaten in \u00f6l",
+      "allergens": []
+    },
+    "145": {
+      "english": "oats",
+      "category": "fr\u00fchst\u00fcck",
+      "ingredient": "haferflocken",
+      "allergens": [
+        "gluten"
+      ]
+    },
+    "146": {
+      "english": "vegan sugar cereals",
+      "category": "fr\u00fchst\u00fcck",
+      "ingredient": "veganes zuckerm\u00fcsli",
+      "allergens": [
+        "gluten"
+      ]
+    },
+    "147": {
+      "english": "coffee",
+      "category": "fr\u00fchst\u00fcck",
+      "ingredient": "kaffe",
+      "allergens": []
+    },
+    "148": {
+      "english": "black tea",
+      "category": "fr\u00fchst\u00fcck",
+      "ingredient": "schwarztee",
+      "allergens": []
+    },
+    "149": {
+      "english": "herbal tea",
+      "category": "fr\u00fchst\u00fcck",
+      "ingredient": "kr\u00e4utertee",
+      "allergens": []
+    },
+    "150": {
+      "english": "jam",
+      "category": "fr\u00fchst\u00fcck",
+      "ingredient": "marmelade",
+      "allergens": []
+    },
+    "151": {
+      "english": "rose jam",
+      "category": "fr\u00fchst\u00fcck",
+      "ingredient": "rosenmarmelade",
+      "allergens": []
+    },
+    "152": {
+      "english": "bread",
+      "category": "fr\u00fchst\u00fcck",
+      "ingredient": "brot",
+      "allergens": [
+        "gluten"
+      ]
+    },
+    "153": {
+      "english": "smoked tofu",
+      "category": "k\u00fchlware",
+      "ingredient": "r\u00e4uchertofu",
+      "allergens": [
+        "soja"
+      ]
+    },
+    "154": {
+      "english": "sausages",
+      "category": "k\u00fchlware",
+      "ingredient": "w\u00fcrstchen",
+      "allergens": []
+    },
+    "155": {
+      "english": "potato dumpling dough",
+      "category": "k\u00fchlware",
+      "ingredient": "klo\u00dfteig",
+      "allergens": []
+    },
+    "156": {
+      "english": "tk-r\u00f6sti",
+      "category": "k\u00fchlware",
+      "ingredient": "tk-r\u00f6sti",
+      "allergens": []
+    },
+    "157": {
+      "english": "tk-peas",
+      "category": "k\u00fchlware",
+      "ingredient": "tk-erbsen",
+      "allergens": [
+        "h\u00fclsenfr\u00fcchte"
+      ]
+    },
+    "158": {
+      "english": "margerine",
+      "category": "k\u00fchlware",
+      "ingredient": "margerine",
+      "allergens": []
+    },
+    "159": {
+      "english": "margerine (small packs)",
+      "category": "k\u00fchlware",
+      "ingredient": "margerine (kleine packungen)",
+      "allergens": []
+    },
+    "160": {
+      "english": "soy milk",
+      "category": "k\u00fchlware",
+      "ingredient": "sojamilch",
+      "allergens": [
+        "soja"
+      ]
+    },
+    "161": {
+      "english": "soy cream",
+      "category": "k\u00fchlware",
+      "ingredient": "sojasahne",
+      "allergens": [
+        "soja"
+      ]
+    },
+    "162": {
+      "english": "soy yoghurt",
+      "category": "k\u00fchlware",
+      "ingredient": "sojajoghurt",
+      "allergens": [
+        "soja"
+      ]
+    },
+    "163": {
+      "english": "oat milk",
+      "category": "k\u00fchlware",
+      "ingredient": "hafermilch",
+      "allergens": [
+        "gluten"
+      ]
+    },
+    "164": {
+      "english": "genuss-block",
+      "category": "k\u00fchlware",
+      "ingredient": "genuss-block",
+      "allergens": []
+    },
+    "165": {
+      "english": "fresh yeast",
+      "category": "k\u00fchlware",
+      "ingredient": "frische hefe",
+      "allergens": []
+    },
+    "166": {
+      "english": "crewcare",
+      "category": "snacks",
+      "ingredient": "crewcare",
+      "allergens": []
+    },
+    "167": {
+      "english": "puffed rice cakes",
+      "category": "snacks",
+      "ingredient": "reiswaffeln",
+      "allergens": []
+    },
+    "168": {
+      "english": "crisps",
+      "category": "snacks",
+      "ingredient": "chips",
+      "allergens": []
+    },
+    "169": {
+      "english": "pecans",
+      "category": "snacks",
+      "ingredient": "pekann\u00fcsse",
+      "allergens": []
+    },
+    "170": {
+      "english": "walnuts",
+      "category": "snacks",
+      "ingredient": "waln\u00fcsse",
+      "allergens": [
+        "waln\u00fcsse"
+      ]
+    },
+    "171": {
+      "english": "peanuts",
+      "category": "snacks",
+      "ingredient": "erdn\u00fcsse",
+      "allergens": [
+        "erdn\u00fcsse"
+      ]
+    },
+    "172": {
+      "english": "cashew nuts",
+      "category": "snacks",
+      "ingredient": "cashewn\u00fcsse",
+      "allergens": []
+    }
+  }
+}
