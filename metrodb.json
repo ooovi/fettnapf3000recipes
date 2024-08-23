@@ -902,14 +902,6 @@
       "ingredient": "sonnenblumenkerne",
       "allergens": []
     },
-    "140": {
-      "english": "kidney beans (dry, wet x 4)",
-      "category": "trockenware",
-      "ingredient": "kidneybohnen (trocken, nass x 4)",
-      "allergens": [
-        "h\u00fclsenfr\u00fcchte"
-      ]
-    },
     "141": {
       "english": "white beans (dry, wet x 4)",
       "category": "trockenware",
@@ -1127,6 +1119,54 @@
       "category": "snacks",
       "ingredient": "cashewn\u00fcsse",
       "allergens": []
+    },
+    "173": {
+      "english": "ground almonds",
+      "category": "backen",
+      "ingredient": "gemahlene mandeln",
+      "allergens": [
+        "mandeln"
+      ]
+    },
+    "174": {
+      "english": "dried mushrooms",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "getrocknete pilze",
+      "allergens": []
+    },
+    "175": {
+      "english": "celery",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "staudensellerie",
+      "allergens": []
+    },
+    "176": {
+      "english": "raisins",
+      "category": "trockenware",
+      "ingredient": "rosinen",
+      "allergens": []
+    },
+    "177": {
+      "english": "eggplant",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "auberginen",
+      "allergens": []
+    },
+    "178": {
+      "english": "sliced almonds",
+      "category": "backen",
+      "ingredient": "gehobelte mandeln",
+      "allergens": [
+        "mandeln"
+      ]
+    },
+    "179": {
+      "english": "kidney beans (dry, wet x 2.5)",
+      "category": "trockenware",
+      "ingredient": "kidneybohnen (trocken, nass x 2.5)",
+      "allergens": [
+        "h\u00fclsenfr\u00fcchte"
+      ]
     }
   }
 }

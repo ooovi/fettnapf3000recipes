@@ -218,38 +218,6 @@
       "materials": [],
       "category": "fr\u00fchst\u00fcck"
     },
-    "78": {
-      "name": "gado-gado",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "basmati": 0.7,
-            "tofu": 0.5,
-            "tempe": 0.5,
-            "gurke": 0.4,
-            "gr\u00fcne bohnen": 0.5,
-            "kartoffeln": 0.2,
-            "m\u00f6hren": 0.2,
-            "sojasprossen": 0.15,
-            "dosenmais": 0.05,
-            "limetten": 0.1,
-            "kokosmilch": 0.3,
-            "erdnussbutter": 0.1,
-            "ingwer": 0.1,
-            "zwiebeln": 0.3,
-            "chips": 0.1,
-            "knobi": 0.05,
-            "zucker": 0.05,
-            "helle sojasauce (glutenfrei)": 0.05
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "hauptgericht"
-    },
     "84": {
       "name": "kartoffeln mit kr\u00e4uterquark",
       "n_servings": 1.0,
@@ -295,29 +263,6 @@
       "instructions": "use the gurke pickle fluid for the dressing!\r\n\r\n\r\n\r",
       "materials": [],
       "category": "salat"
-    },
-    "87": {
-      "name": "landleberwurstpastete",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "\u00e4pfel": 0.2,
-            "kidneybohnen (trocken, nass x 4)": 0.12,
-            "rote zwiebeln": 0.2,
-            "\u00f6l": 0.04,
-            "apfelessig": 0.01,
-            "hefeflocken": 0.01,
-            "ger\u00e4uchertes paprikapulver": 0.01,
-            "pfeffer": 0.01,
-            "salz": 0.02
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "fr\u00fchst\u00fcck"
     },
     "93": {
       "name": "mett",
@@ -749,36 +694,6 @@
       "materials": [],
       "category": "hauptgericht"
     },
-    "136": {
-      "name": "gulasch aus soja",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "soja chunks": 0.5,
-            "rote zwiebeln": 0.5,
-            "knobi": 0.1,
-            "dosentomaten (ganz)": 1.5,
-            "tomatenmark": 0.2,
-            "rotwein": 0.5,
-            "helle sojasauce (glutenfrei)": 0.1,
-            "kartoffeln": 2.0,
-            "paprika": 0.5,
-            "champis": 0.5,
-            "\u00f6l": 0.2,
-            "lorbeer": 0.001,
-            "salz": 0.02,
-            "pfeffer ganz": 0.01,
-            "ger\u00e4uchertes paprikapulver": 0.01,
-            "zucker": 0.01
-          }
-        ]
-      ],
-      "instructions": "soja chunks mit kochendem salzwasser \u00fcbergie\u00dfen. zwiebelringe, ganzen knobi, ganzen pfeffer und lorbeer in \u00f6l braten. sojachunks ausquetschen und mitbraten bis sie golden werden. mit sojaso\u00dfe und rotwein abl\u00f6schen. tomaten zucker salz paprika dazutun und so lange wie m\u00f6glich k\u00f6cheln lassen. dann kartoffelkl\u00f6\u00dfe nach anleitung zubereiten.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "eintopf"
-    },
     "137": {
       "name": "kaffe",
       "n_servings": 10.0,
@@ -835,33 +750,6 @@
       "materials": [
         "kartoffelstampfer"
       ],
-      "category": "hauptgericht"
-    },
-    "141": {
-      "name": "pasta arrabiata",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "so\u00dfe",
-          {
-            "knobi": 0.1,
-            "chili (pulver)": 0.01,
-            "oliven\u00f6l": 0.2,
-            "dosentomaten (gehackt)": 4.0,
-            "salz": 0.01,
-            "zucker": 0.01
-          }
-        ],
-        [
-          "nudels",
-          {
-            "pasta": 1.5,
-            "salz": 0.1
-          }
-        ]
-      ],
-      "instructions": "knobi und chili in \u00f6l braten, mit tomate abl\u00f6schen und f\u00fcr immer k\u00f6cheln lassen. mit zucker und salz abschmecken\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
-      "materials": [],
       "category": "hauptgericht"
     },
     "143": {
@@ -1196,82 +1084,6 @@
       "materials": [],
       "category": "misc"
     },
-    "167": {
-      "name": "gulasch aus seitan mit kl\u00f6\u00dfen",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "seitan",
-          {
-            "seitanpulver": 0.6,
-            "helle sojasauce (glutenfrei)": 0.1,
-            "tomatenmark": 0.1,
-            "miso": 0.05,
-            "hefeflocken": 0.02,
-            "ger\u00e4uchertes paprikapulver": 0.01
-          }
-        ],
-        [
-          "so\u00dfe",
-          {
-            "rote zwiebeln": 0.5,
-            "knobi": 0.1,
-            "dosentomaten (ganz)": 1.5,
-            "rotwein": 0.6,
-            "\u00f6l": 0.2,
-            "lorbeer": 0.001,
-            "salz": 0.02,
-            "pfeffer ganz": 0.01,
-            "zucker": 0.01
-          }
-        ],
-        [
-          "kl\u00f6\u00dfe",
-          {
-            "klo\u00dfteig": 2.5
-          }
-        ]
-      ],
-      "instructions": "seitanpulver mit viel gew\u00fcrz und ca. 1:1 fl\u00fcssiggeit. fry zwiebeln, whole knobi, whole pfeffer, laurel in \u00f6l. add seitan to fry till golden. deglaze with soy sauce and wine. add tomato, zucker, salz and paprika to taste. simmer for as long as you can. then make potato dumplings as Anleitung say.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "hauptgericht"
-    },
-    "170": {
-      "name": "seitangulasch mit gem\u00fcse",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "seitan",
-          {
-            "seitanpulver": 0.6,
-            "helle sojasauce (glutenfrei)": 0.1,
-            "tomatenmark": 0.1,
-            "miso": 0.05,
-            "hefeflocken": 0.02,
-            "ger\u00e4uchertes paprikapulver": 0.01
-          }
-        ],
-        [
-          "so\u00dfe",
-          {
-            "rote zwiebeln": 0.5,
-            "knobi": 0.1,
-            "champis": 0.5,
-            "paprika": 0.5,
-            "dosentomaten (ganz)": 1.2,
-            "rotwein": 0.6,
-            "\u00f6l": 0.2,
-            "lorbeer": 0.001,
-            "salz": 0.02,
-            "pfeffer ganz": 0.01,
-            "zucker": 0.01
-          }
-        ]
-      ],
-      "instructions": "seitanpulver mit viel gew\u00fcrz und ca. 1:1 fl\u00fcssiggeit verkneten, kann ruhig z\u00e4h sein. ungegart kleinschneiden und in der pfanne in \u00f6l braten. zwiebeln, ganzen knobi, ganzen pfeffer, lorbeer, gem\u00fcse dazu. mit wein abl\u00f6schen. tomate, zucker, salz und gew\u00fcrze dazu. so lange es geht k\u00f6cheln lassen.\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "eintopf"
-    },
     "174": {
       "name": "nudeln",
       "n_servings": 10.0,
@@ -1395,22 +1207,6 @@
       "instructions": "blend the zwiebeln, knobi and ingwer to a fine paste with some \u00f6l. alternatively, chop finely. fry the paste in more \u00f6l until it's golden and does not smell of raw zwiebeln. add spices, fry for a few seconds. add tomato paste and boil for as long as you can. add kichererbsen and cream.\r\n\r\n### Material\r\nStabmixer\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
       "materials": [],
       "category": "hauptgericht"
-    },
-    "182": {
-      "name": "reis",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "basmati": 0.75,
-            "salz": 0.009
-          }
-        ]
-      ],
-      "instructions": "kleine mengen - 1 teil reis zu 1.75 wasser\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "beilage"
     },
     "185": {
       "name": "schokospa\u00df",
@@ -1806,29 +1602,6 @@
       "materials": [],
       "category": "beilage"
     },
-    "226": {
-      "name": "brokkoli-sahnesauce",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "so\u00dfe",
-          {
-            "zwiebeln": 0.5,
-            "knobi": 0.1,
-            "brokkoli": 1.0,
-            "r\u00e4uchertofu": 0.5,
-            "wei\u00dfwein": 0.4,
-            "sojasahne": 1.0,
-            "\u00f6l": 0.15,
-            "salz": 0.025,
-            "pfeffer": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "hauptgericht"
-    },
     "229": {
       "name": "peacamole",
       "n_servings": 12.0,
@@ -1866,41 +1639,6 @@
       "instructions": "",
       "materials": [],
       "category": "beilage"
-    },
-    "231": {
-      "name": "chili",
-      "n_servings": 6.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "zwiebeln": 0.2,
-            "knobi": 0.05,
-            "naturtofu": 0.2,
-            "kartoffeln": 0.2,
-            "paprika gr\u00fcn": 0.2,
-            "m\u00f6hren": 0.2,
-            "kidneybohnen (trocken, nass x 4)": 0.2,
-            "dosentomaten (passiert)": 0.8,
-            "dosenmais": 0.1,
-            "\u00f6l": 0.15,
-            "chili (pulver)": 0.001,
-            "steinpilze": 0.001,
-            "kakao": 0.005,
-            "oregano": 0.005,
-            "lorbeer": 0.001,
-            "zucker": 0.02,
-            "kreuzk\u00fcmmel": 0.001,
-            "helle sojasauce (glutenfrei)": 0.06,
-            "orangensaft": 0.1,
-            "pfeffer": 0.005,
-            "salz": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "eintopf"
     },
     "232": {
       "name": "m\u00fcsli",
@@ -1988,6 +1726,380 @@
       "instructions": "",
       "materials": [],
       "category": "beilage"
+    },
+    "236": {
+      "name": "risotto",
+      "n_servings": 15.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "milchreis": 0.75,
+            "wei\u00dfwein": 0.5,
+            "zwiebeln": 0.5,
+            "knobi": 0.03,
+            "gemahlene mandeln": 0.2,
+            "hefeflocken": 0.05,
+            "getrocknete pilze": 0.08,
+            "r\u00e4uchertofu": 0.5,
+            "tk-erbsen": 0.6,
+            "gem\u00fcsebr\u00fche": 0.05,
+            "\u00f6l": 0.2,
+            "margarine": 0.2
+          }
+        ]
+      ],
+      "instructions": "- Gem\u00fcsebr\u00fche mit 300ml Wasser pro portion aufgiessen, insgesamt sollten es so 1,5-2 g Salz pro Nase werden\r\n- Zwiebeln d\u00fcnsten 5-10 Minuten \r\n- Tofu dazu 3-5 Minuten \r\n- Knoblauch dazu 1-2 Minuten \r\n- Reis dazu 2-3 Minuten \r\n- Wei\u00dfwein dazu \r\n- Hitze reduzieren \r\n- Br\u00fche in 5-10 Portionen dazu geben. Immer warten bis der Reis die Fl\u00fcssigkeit komplett aufgenommen hat. Solange wiederholen bis gew\u00fcnschte Konsistenz erreicht ist. Ggf. Wasser nehmen falls die Br\u00fche nicht reicht. \r\n- Mandeln, Hefe, Erbsen/pilze etc., evtl. weiteres Fett am Ende untermischen\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "237": {
+      "name": "parmesan",
+      "n_servings": 13,
+      "ingredients": [
+        [
+          "",
+          {
+            "gemahlene mandeln": 0.1,
+            "hefeflocken": 0.03,
+            "salz": 0.001
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "misc"
+    },
+    "238": {
+      "name": "tahina",
+      "n_servings": 3,
+      "ingredients": [
+        [
+          "",
+          {
+            "tahin": 0.1,
+            "zitronensaft": 0.02,
+            "sojajoghurt": 0.2,
+            "salz": 0.001
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "misc"
+    },
+    "239": {
+      "name": "erdnussso\u00dfe",
+      "n_servings": 10,
+      "ingredients": [
+        [
+          "",
+          {
+            "erdnussbutter": 0.5,
+            "zucker": 0.05,
+            "knobi": 0.01,
+            "chili": 0.001,
+            "ingwer": 0.02,
+            "sojaso\u00dfe": 0.05,
+            "limettensaft": 0.05
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "misc"
+    },
+    "240": {
+      "name": "gado-gado",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "basmati": 0.7,
+            "tofu": 0.5,
+            "tempe": 0.5,
+            "gurke": 0.4,
+            "gr\u00fcne bohnen": 0.5,
+            "kartoffeln": 0.2,
+            "m\u00f6hren": 0.2,
+            "sojasprossen": 0.15,
+            "dosenmais": 0.05,
+            "limetten": 0.1,
+            "kokosmilch": 0.3,
+            "erdnussbutter": 0.5,
+            "ingwer": 0.1,
+            "zwiebeln": 0.3,
+            "chips": 0.1,
+            "knobi": 0.05,
+            "zucker": 0.05,
+            "helle sojasauce (glutenfrei)": 0.05
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "241": {
+      "name": "pasta arrabiata",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "so\u00dfe",
+          {
+            "knobi": 0.025,
+            "chili (pulver)": 0.01,
+            "oliven\u00f6l": 0.2,
+            "dosentomaten (gehackt)": 4.0,
+            "salz": 0.01,
+            "zucker": 0.01
+          }
+        ],
+        [
+          "nudels",
+          {
+            "pasta": 1.5,
+            "salz": 0.1
+          }
+        ]
+      ],
+      "instructions": "knobi und chili in \u00f6l braten, mit tomate abl\u00f6schen und f\u00fcr immer k\u00f6cheln lassen. mit zucker und salz abschmecken\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "242": {
+      "name": "gulasch aus seitan mit kl\u00f6\u00dfen",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "seitan",
+          {
+            "seitanpulver": 0.6,
+            "helle sojasauce (glutenfrei)": 0.1,
+            "tomatenmark": 0.1,
+            "miso": 0.05,
+            "hefeflocken": 0.02,
+            "ger\u00e4uchertes paprikapulver": 0.01
+          }
+        ],
+        [
+          "so\u00dfe",
+          {
+            "rote zwiebeln": 0.5,
+            "knobi": 0.025,
+            "dosentomaten (ganz)": 1.5,
+            "rotwein": 0.6,
+            "\u00f6l": 0.2,
+            "lorbeer": 0.001,
+            "salz": 0.02,
+            "pfeffer ganz": 0.01,
+            "zucker": 0.01
+          }
+        ],
+        [
+          "kl\u00f6\u00dfe",
+          {
+            "klo\u00dfteig": 2.5
+          }
+        ]
+      ],
+      "instructions": "seitanpulver mit viel gew\u00fcrz und ca. 1:1 fl\u00fcssiggeit. fry zwiebeln, whole knobi, whole pfeffer, laurel in \u00f6l. add seitan to fry till golden. deglaze with soy sauce and wine. add tomato, zucker, salz and paprika to taste. simmer for as long as you can. then make potato dumplings as Anleitung say.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "244": {
+      "name": "gulasch aus soja",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "soja chunks": 0.5,
+            "rote zwiebeln": 0.5,
+            "knobi": 0.03,
+            "dosentomaten (ganz)": 1.5,
+            "tomatenmark": 0.2,
+            "rotwein": 0.5,
+            "helle sojasauce (glutenfrei)": 0.1,
+            "kartoffeln": 2.0,
+            "paprika": 0.5,
+            "champis": 0.5,
+            "\u00f6l": 0.2,
+            "lorbeer": 0.001,
+            "salz": 0.02,
+            "pfeffer ganz": 0.01,
+            "ger\u00e4uchertes paprikapulver": 0.01,
+            "zucker": 0.01
+          }
+        ]
+      ],
+      "instructions": "soja chunks mit kochendem salzwasser \u00fcbergie\u00dfen. zwiebelringe, ganzen knobi, ganzen pfeffer und lorbeer in \u00f6l braten. sojachunks ausquetschen und mitbraten bis sie golden werden. mit sojaso\u00dfe und rotwein abl\u00f6schen. tomaten zucker salz paprika dazutun und so lange wie m\u00f6glich k\u00f6cheln lassen. dann kartoffelkl\u00f6\u00dfe nach anleitung zubereiten.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "eintopf"
+    },
+    "249": {
+      "name": "brokkoli-sahnesauce",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "so\u00dfe",
+          {
+            "zwiebeln": 0.5,
+            "knobi": 0.05,
+            "brokkoli": 1.0,
+            "r\u00e4uchertofu": 0.5,
+            "wei\u00dfwein": 0.4,
+            "sojasahne": 1.0,
+            "\u00f6l": 0.15,
+            "salz": 0.025,
+            "pfeffer": 0.01
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "253": {
+      "name": "carponata",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "auberginen": 0.8999999999999999,
+            "rotwein": 0.4,
+            "dosentomaten (ganz)": 0.8999999999999999,
+            "paprika gr\u00fcn": 0.5,
+            "staudensellerie": 0.25,
+            "schwarze oliven": 0.08,
+            "kapern": 0.04,
+            "rosinen": 0.08,
+            "rote zwiebeln": 0.2,
+            "knobi": 0.03,
+            "waln\u00fcsse": 0.08,
+            "zucker": 0.05,
+            "salz": 0.025,
+            "oregano": 0.005,
+            "pfeffer": 0.005,
+            "\u00f6l": 0.15
+          }
+        ]
+      ],
+      "instructions": "aubergine braten, Paprika und Zwiebel dazu, knobi rauf und mit Wein abl\u00f6schen. tomate rosine zucker dazu, den Rest kurz vor Schluss rein.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "254": {
+      "name": "seitangulasch mit gem\u00fcse",
+      "n_servings": 14.0,
+      "ingredients": [
+        [
+          "seitan",
+          {
+            "seitanpulver": 0.6,
+            "helle sojasauce (glutenfrei)": 0.1,
+            "tomatenmark": 0.1,
+            "miso": 0.05,
+            "hefeflocken": 0.02,
+            "ger\u00e4uchertes paprikapulver": 0.01
+          }
+        ],
+        [
+          "so\u00dfe",
+          {
+            "rote zwiebeln": 0.5,
+            "knobi": 0.03,
+            "champis": 0.5,
+            "paprika": 0.5,
+            "dosentomaten (ganz)": 1.2,
+            "rotwein": 0.6,
+            "\u00f6l": 0.2,
+            "lorbeer": 0.001,
+            "salz": 0.02,
+            "pfeffer ganz": 0.01,
+            "zucker": 0.01
+          }
+        ]
+      ],
+      "instructions": "seitanpulver mit viel gew\u00fcrz und ca. 1:1 fl\u00fcssiggeit verkneten, kann ruhig z\u00e4h sein. ungegart kleinschneiden und in der pfanne in \u00f6l braten. zwiebeln, ganzen knobi, ganzen pfeffer, lorbeer, gem\u00fcse dazu. mit wein abl\u00f6schen. tomate, zucker, salz und gew\u00fcrze dazu. so lange es geht k\u00f6cheln lassen.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "eintopf"
+    },
+    "255": {
+      "name": "chili",
+      "n_servings": 6.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "zwiebeln": 0.2,
+            "knobi": 0.05,
+            "tofu": 0.2,
+            "kartoffeln": 0.2,
+            "paprika gr\u00fcn": 0.2,
+            "m\u00f6hren": 0.2,
+            "kidneybohnen (trocken, nass x 4)": 0.2,
+            "dosentomaten (passiert)": 0.8,
+            "dosenmais": 0.1,
+            "\u00f6l": 0.15,
+            "chili (pulver)": 0.001,
+            "steinpilze": 0.001,
+            "kakao": 0.005,
+            "oregano": 0.005,
+            "lorbeer": 0.001,
+            "zucker": 0.02,
+            "kreuzk\u00fcmmel": 0.001,
+            "helle sojasauce (glutenfrei)": 0.06,
+            "orangensaft": 0.1,
+            "pfeffer": 0.005,
+            "salz": 0.01
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "eintopf"
+    },
+    "256": {
+      "name": "reis",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "basmati": 0.75,
+            "salz": 0.009
+          }
+        ]
+      ],
+      "instructions": "kleine mengen - 1 teil reis zu 1.75 wasser\r\n\r\nim Ofen/conni: mit hei\u00dfem Wasser und Salz in GN, den reis trocken und eine daumenbreite bedeckt mit wasser, Deckel drauf, in den Ofen bei 150\u00b0 f\u00fcr 30min, zwischendurch einmal umr\u00fchren\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "beilage"
+    },
+    "257": {
+      "name": "landleberwurstpastete",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "\u00e4pfel": 0.2,
+            "kidneybohnen (trocken, nass x 2.5)": 0.12,
+            "rote zwiebeln": 0.2,
+            "\u00f6l": 0.04,
+            "apfelessig": 0.01,
+            "hefeflocken": 0.01,
+            "ger\u00e4uchertes paprikapulver": 0.01,
+            "pfeffer": 0.01,
+            "salz": 0.02
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "fr\u00fchst\u00fcck"
     }
   }
 }
