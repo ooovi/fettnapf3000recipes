@@ -1167,6 +1167,36 @@
       "allergens": [
         "h\u00fclsenfr\u00fcchte"
       ]
+    },
+    "180": {
+      "english": "vegetable stock (in litres)",
+      "category": "gew\u00fcrze",
+      "ingredient": "gem\u00fcsebr\u00fche (in litern)",
+      "allergens": [
+        "histamin",
+        "lauch",
+        "zwiebel"
+      ]
+    },
+    "181": {
+      "english": "gluten free pasta",
+      "category": "trockenware",
+      "ingredient": "glutenfreie nudeln",
+      "allergens": []
+    },
+    "182": {
+      "english": "gluten free bread",
+      "category": "fr\u00fchst\u00fcck",
+      "ingredient": "glutenfreies brot",
+      "allergens": []
+    },
+    "183": {
+      "english": "spaghetti",
+      "category": "trockenware",
+      "ingredient": "spaghetti",
+      "allergens": [
+        "gluten"
+      ]
     }
   }
 }

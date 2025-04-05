@@ -32,31 +32,6 @@
         "stabmixer"
       ]
     },
-    "28": {
-      "name": "bratlinge",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "haferflocken": 0.5,
-            "m\u00f6hren": 0.5,
-            "zwiebeln": 0.25,
-            "senf": 0.02,
-            "tomatenmark": 0.02,
-            "knobi": 0.02,
-            "\u00f6l": 0.5,
-            "salz": 0.02,
-            "pfeffer": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [
-        "reibe",
-        "stabmixer"
-      ]
-    },
     "34": {
       "name": "streusel",
       "n_servings": 10.0,
@@ -605,41 +580,6 @@
       "instructions": "",
       "materials": [],
       "category": "misc"
-    },
-    "125": {
-      "name": "zhenia's borschtch",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "borschtch",
-          {
-            "kartoffeln": 0.7,
-            "zwiebeln": 0.4,
-            "knobi": 0.05,
-            "rote beete (roh)": 1.0,
-            "wei\u00dfe bohnen (trocken, nass x 2.5)": 0.13,
-            "dosentomaten (gehackt)": 0.3,
-            "zitronensaft": 0.17,
-            "lorbeer": 0.001,
-            "pfeffer ganz": 0.01,
-            "salz": 0.02,
-            "zucker": 0.02
-          }
-        ],
-        [
-          "cashew sour cream",
-          {
-            "cashewn\u00fcsse": 0.17,
-            "zitronensaft": 0.05,
-            "sojasahne": 0.1,
-            "hefeflocken": 0.05,
-            "salz": 0.01
-          }
-        ]
-      ],
-      "instructions": "soak cashews overnight and blend with zitronensaft and salz for sour cream.\r\n\r\n### Material\r\nStabmixer\r\n\r\n\r\n\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "eintopf"
     },
     "127": {
       "name": "mercimek",
@@ -1409,74 +1349,6 @@
       "materials": [],
       "category": "s\u00fc\u00dfkram"
     },
-    "204": {
-      "name": "bollo + nudels",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "sojahack (trocken)": 0.5,
-            "rote zwiebeln": 0.5,
-            "m\u00f6hren": 0.5,
-            "sojasahne": 0.5,
-            "knobi": 0.025,
-            "dosentomaten (passiert)": 1.5,
-            "helle sojasauce (glutenfrei)": 0.1,
-            "balsamico": 0.1,
-            "\u00f6l": 0.15,
-            "pasta": 1.2,
-            "rotwein": 0.4,
-            "lorbeer": 0.005,
-            "chili (pulver)": 0.001,
-            "salz": 0.02,
-            "pfeffer": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "hauptgericht"
-    },
-    "205": {
-      "name": "sauerkraut mit kartoffelbrei",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "kraut",
-          {
-            "sauerkraut": 1.1,
-            "zwiebeln": 0.2,
-            "tomatenmark": 0.2,
-            "r\u00e4uchertofu": 0.2,
-            "knobi": 0.025,
-            "\u00f6l": 0.15,
-            "zucker": 0.01,
-            "kreuzk\u00fcmmel": 0.01,
-            "ger\u00e4uchertes paprikapulver": 0.01,
-            "salz": 0.01,
-            "pfeffer": 0.01,
-            "lorbeer": 0.01
-          }
-        ],
-        [
-          "kap\u00fc",
-          {
-            "kartoffeln": 3.0,
-            "margerine": 0.6,
-            "sojasahne": 0.3,
-            "salz": 0.01,
-            "muskat": 0.001
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [
-        "",
-        "kartoffelstampfer"
-      ],
-      "category": "hauptgericht"
-    },
     "214": {
       "name": "caesersalat",
       "n_servings": 10.0,
@@ -1753,23 +1625,6 @@
       "materials": [],
       "category": "hauptgericht"
     },
-    "237": {
-      "name": "parmesan",
-      "n_servings": 13,
-      "ingredients": [
-        [
-          "",
-          {
-            "gemahlene mandeln": 0.1,
-            "hefeflocken": 0.03,
-            "salz": 0.001
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "misc"
-    },
     "238": {
       "name": "tahina",
       "n_servings": 3,
@@ -1938,29 +1793,6 @@
       "materials": [],
       "category": "eintopf"
     },
-    "249": {
-      "name": "brokkoli-sahnesauce",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "so\u00dfe",
-          {
-            "zwiebeln": 0.5,
-            "knobi": 0.05,
-            "brokkoli": 1.0,
-            "r\u00e4uchertofu": 0.5,
-            "wei\u00dfwein": 0.4,
-            "sojasahne": 1.0,
-            "\u00f6l": 0.15,
-            "salz": 0.025,
-            "pfeffer": 0.01
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "hauptgericht"
-    },
     "253": {
       "name": "carponata",
       "n_servings": 10.0,
@@ -2100,6 +1932,320 @@
       "instructions": "",
       "materials": [],
       "category": "fr\u00fchst\u00fcck"
+    },
+    "259": {
+      "name": "zhenia's borschtch",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "borschtch",
+          {
+            "kartoffeln": 0.7,
+            "zwiebeln": 0.4,
+            "knobi": 0.05,
+            "rote beete (roh)": 1.0,
+            "wei\u00dfe bohnen (trocken, nass x 2.5)": 0.13,
+            "dosentomaten (gehackt)": 0.3,
+            "zitronensaft": 0.17,
+            "lorbeer": 0.001,
+            "pfeffer": 0.01,
+            "salz": 0.02,
+            "zucker": 0.02
+          }
+        ],
+        [
+          "cashew sour cream",
+          {
+            "cashewn\u00fcsse": 0.17,
+            "zitronensaft": 0.045,
+            "sojasahne": 0.13,
+            "hefeflocken": 0.025,
+            "salz": 0.01
+          }
+        ]
+      ],
+      "instructions": "soak cashews overnight and blend with zitronensaft and salz for sour cream.\r\n\r\n### Material\r\nStabmixer\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "eintopf"
+    },
+    "260": {
+      "name": "bollo + nudels",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "sojahack (trocken)": 0.5,
+            "rote zwiebeln": 0.5,
+            "m\u00f6hren": 0.5,
+            "sojasahne": 0.4,
+            "knobi": 0.025,
+            "dosentomaten (passiert)": 1.5,
+            "helle sojasauce (glutenfrei)": 0.1,
+            "balsamico": 0.1,
+            "\u00f6l": 0.15,
+            "pasta": 1.2,
+            "rotwein": 0.4,
+            "lorbeer": 0.005,
+            "chili (pulver)": 0.001,
+            "salz": 0.02,
+            "pfeffer": 0.01
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "263": {
+      "name": "herbstliches rote beete risotto",
+      "n_servings": 36.0,
+      "ingredients": [
+        [
+          "risotto",
+          {
+            "milchreis": 2.0,
+            "wei\u00dfwein": 1.0,
+            "zwiebeln": 1.0,
+            "rote beete (roh)": 2.0,
+            "knobi": 0.1,
+            "salz": 0.18,
+            "pfeffer": 0.09,
+            "gem\u00fcsebr\u00fche (in litern)": 8.0,
+            "margerine": 0.5
+          }
+        ],
+        [
+          "topping",
+          {
+            "waln\u00fcsse": 0.8,
+            "rote zwiebeln": 1.0,
+            "hokkaido": 4.0
+          }
+        ]
+      ],
+      "instructions": "- risotto mit margarine, geduensteten zwiebeln, knoblauch, klein geschnittener rote beete, weisswein und gemuesebruehe \"normal\" zubereiten. ggf. bleibt fluessigkeit uebrig oder muss durch wasser ergaenzt werden.\r\n- rote zwiebeln braten und karamellisieren\r\n- kuerbis in duennen streifen lecker backen\r\n- walnuesse grob hacken und roesten\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "264": {
+      "name": "scones",
+      "n_servings": 5,
+      "ingredients": [
+        [
+          "",
+          {
+            "mehl": 0.5,
+            "zucker": 0.025,
+            "salz": 0.006,
+            "backpulver": 0.016,
+            "rosinen": 0.075,
+            "margarine": 0.075,
+            "sojamilch": 0.3
+          }
+        ]
+      ],
+      "instructions": "trockene Zutaten mischen, butter m\u00f6glichst kalt reinreiben oder br\u00f6seln oder so, Milch dazu und grade so vermischen, nicht lange kneten. ausbreiten, mit ner tasse ausstechen, evtl mit gezuckerter Sojamilch bestreichen.\r\n\r\nbei 220 grad ca 10 min golden backen.\r\n\r\nmacht 2 scones pro portion.",
+      "materials": [],
+      "category": "geb\u00e4ck"
+    },
+    "265": {
+      "name": "glutenfreie nudeln",
+      "n_servings": 10,
+      "ingredients": [
+        [
+          "",
+          {
+            "glutenfreie nudeln": 1.2,
+            "salz": 0.1
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "beilage"
+    },
+    "266": {
+      "name": "glutenfreies brot",
+      "n_servings": 10,
+      "ingredients": [
+        [
+          "",
+          {
+            "glutenfreies brot": 1.0
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "beilage"
+    },
+    "268": {
+      "name": "spaghetti carbonara",
+      "n_servings": 2.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "spaghetti": 0.2,
+            "cashewn\u00fcsse": 0.05,
+            "sojasahne": 0.2,
+            "miso": 0.01,
+            "hefeflocken": 0.007,
+            "zwiebeln": 0.06,
+            "salz": 0.025,
+            "r\u00e4uchertofu": 0.1,
+            "pfeffer": 0.001,
+            "\u00f6l": 0.03
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "269": {
+      "name": "histamini kit",
+      "n_servings": 1,
+      "ingredients": [
+        [
+          "",
+          {
+            "brokkoli": 0.05,
+            "m\u00f6hren": 0.05,
+            "tahin": 0.03,
+            "sonnenblumenkerne": 0.02,
+            "sesam\u00f6l": 0.01,
+            "paprika": 0.05,
+            "mandelbl\u00e4tter": 0.02
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "misc"
+    },
+    "270": {
+      "name": "knoblauchmajo",
+      "n_servings": 40,
+      "ingredients": [
+        [
+          "",
+          {
+            "\u00f6l": 1.0,
+            "sojamilch": 0.5,
+            "senf": 0.05,
+            "balsamico (hell)": 0.05,
+            "salz": 0.01,
+            "knobi": 0.005
+          }
+        ]
+      ],
+      "instructions": "alles zusammen p\u00fcrieren. wenns nich fest wird is zuwenig fett dran",
+      "materials": [
+        "p\u00fcrierstab"
+      ],
+      "category": "misc"
+    },
+    "274": {
+      "name": "sauerkraut mit kartoffelbrei",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "kraut",
+          {
+            "sauerkraut": 1.1,
+            "zwiebeln": 0.2,
+            "tomatenmark": 0.2,
+            "r\u00e4uchertofu": 0.2,
+            "knobi": 0.025,
+            "\u00f6l": 0.15,
+            "zucker": 0.01,
+            "kreuzk\u00fcmmel": 0.01,
+            "ger\u00e4uchertes paprikapulver": 0.01,
+            "salz": 0.01,
+            "pfeffer": 0.01,
+            "lorbeer": 0.01
+          }
+        ],
+        [
+          "kap\u00fc",
+          {
+            "kartoffeln": 3.0,
+            "margerine": 0.6,
+            "sojasahne": 0.3,
+            "salz": 0.01,
+            "muskat": 0.001
+          }
+        ]
+      ],
+      "instructions": "F\u00fcr das kraut brate zwiebeln lorbeer tofu knobi in der pfanne, schmei\u00df zucker rauf und das kraut und brate das auch kurz. dann die tomate und gew\u00fcrze dazu und k\u00f6cheln/braten lassen je l\u00e4nger desto lecker. nach bedarf bisschen wasser ran damits nicht anbrennt. wenns nicht geil ist ist nicht genug zucker dran. und wenn man fein sein will kann man noch trockenpflaumen, trockenpilze, w\u00fcrstchen und so mitkochen. \"bigos na winie: co si\u0119 nawinie, to do bigosu\" -- two-hand bigos: whatever's to hand goes into the bigos\r\n\r\n### Material\r\nKartoffelstampfer\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "276": {
+      "name": "bratlinge",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "haferflocken": 0.5,
+            "m\u00f6hren": 0.5,
+            "zwiebeln": 0.25,
+            "senf": 0.02,
+            "tomatenmark": 0.02,
+            "knobi": 0.02,
+            "\u00f6l": 0.5,
+            "salz": 0.02,
+            "pfeffer": 0.01
+          }
+        ]
+      ],
+      "instructions": "Zwiebeln grob kleinschneiden und mit senf, tomatenmark, knobi, gew\u00fcrzen und etwas wasser p\u00fcrieren. m\u00f6hren (oder ein anderes gem\u00fcse) reiben, mit haferflocken und dem zwiebelpamps verkneten. teig sollte sehr klebrig sein, eher wie dicker kuchenteig. mit nem \u00f6ligen l\u00f6ffel oder ge\u00f6lten fingern h\u00e4ufchen in die pfanne legen und bei mittlerer hitze braten.\r\n\r\n### Material\r\nReibe\r\nStabmixer",
+      "materials": [],
+      "category": "misc"
+    },
+    "277": {
+      "name": "parmesan",
+      "n_servings": 13.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "gemahlene mandeln": 0.1,
+            "hefeflocken": 0.03,
+            "salz": 0.001
+          }
+        ]
+      ],
+      "instructions": "einfach mischen und geil!",
+      "materials": [],
+      "category": "misc"
+    },
+    "278": {
+      "name": "brokkoli-sahnesauce",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "so\u00dfe",
+          {
+            "zwiebeln": 0.5,
+            "knobi": 0.05,
+            "brokkoli": 1.0,
+            "r\u00e4uchertofu": 0.5,
+            "wei\u00dfwein": 0.4,
+            "sojasahne": 1.0,
+            "\u00f6l": 0.15,
+            "senf": 0.05,
+            "salz": 0.025,
+            "pfeffer": 0.01
+          }
+        ]
+      ],
+      "instructions": "Zwiebeln Tofu knobi braten, Brokkoli rauf, mit Wein abl\u00f6schen, mit sahne aufgie\u00dfen und aufkochen.",
+      "materials": [],
+      "category": "hauptgericht"
     }
   }
 }
