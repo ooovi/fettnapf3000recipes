@@ -1118,7 +1118,9 @@
       "english": "cashew nuts",
       "category": "snacks",
       "ingredient": "cashewn\u00fcsse",
-      "allergens": []
+      "allergens": [
+        "waln\u00fcsse"
+      ]
     },
     "173": {
       "english": "ground almonds",
@@ -1196,6 +1198,14 @@
       "ingredient": "spaghetti",
       "allergens": [
         "gluten"
+      ]
+    },
+    "184": {
+      "english": "cashew nuts",
+      "category": "snacks",
+      "ingredient": "cashewbruch",
+      "allergens": [
+        "waln\u00fcsse"
       ]
     }
   }
