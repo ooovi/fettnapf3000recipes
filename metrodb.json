@@ -1207,6 +1207,44 @@
       "allergens": [
         "waln\u00fcsse"
       ]
+    },
+    "185": {
+      "english": "marker pens",
+      "category": "hygiene",
+      "ingredient": "filzstifte",
+      "allergens": []
+    },
+    "186": {
+      "english": "masking tape",
+      "category": "hygiene",
+      "ingredient": "papierklebeband",
+      "allergens": []
+    },
+    "187": {
+      "english": "scouring cleaner",
+      "category": "hygiene",
+      "ingredient": "scheuermilch",
+      "allergens": []
+    },
+    "188": {
+      "english": "sesame oil",
+      "category": "\u00f6l/essig",
+      "ingredient": "sesam\u00f6l",
+      "allergens": [
+        "sesam"
+      ]
+    },
+    "189": {
+      "english": "dishwashing brush",
+      "category": "hygiene",
+      "ingredient": "sp\u00fclb\u00fcrste",
+      "allergens": []
+    },
+    "190": {
+      "english": "lighters",
+      "category": "hygiene",
+      "ingredient": "stabfeuerzeuge",
+      "allergens": []
     }
   }
 }
