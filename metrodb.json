@@ -4,37 +4,49 @@
       "english": "coconut milk",
       "category": "nometro",
       "ingredient": "kokosmilch",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "2": {
       "english": "kala namak salt",
       "category": "nometro",
       "ingredient": "kala namak (eiersalz)",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "3": {
       "english": "coconut oil",
       "category": "nometro",
       "ingredient": "kokosfett",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "4": {
       "english": "black olives",
       "category": "nometro",
       "ingredient": "schwarze oliven",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "5": {
       "english": "nutritional yeast",
       "category": "nometro",
       "ingredient": "hefeflocken",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "6": {
       "english": "light soy sauce (gluten free)",
       "category": "nometro",
       "ingredient": "helle sojasauce (glutenfrei)",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "7": {
       "english": "peanut butter",
@@ -42,7 +54,9 @@
       "ingredient": "erdnussbutter",
       "allergens": [
         "erdn\u00fcsse"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "8": {
       "english": "black sesame seeds",
@@ -50,13 +64,17 @@
       "ingredient": "schwarzer sesam",
       "allergens": [
         "sesam"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "9": {
       "english": "sticky rice",
       "category": "nometro",
       "ingredient": "klebreis",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "10": {
       "english": "soy chunks",
@@ -64,7 +82,9 @@
       "ingredient": "soja chunks",
       "allergens": [
         "soja"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "11": {
       "english": "tempeh",
@@ -73,7 +93,9 @@
       "allergens": [
         "soja",
         "histamin"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "12": {
       "english": "tahini",
@@ -81,7 +103,9 @@
       "ingredient": "tahin",
       "allergens": [
         "sesam"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "13": {
       "english": "miso",
@@ -90,7 +114,9 @@
       "allergens": [
         "histamin",
         "soja"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "14": {
       "english": "tofu",
@@ -98,7 +124,9 @@
       "ingredient": "tofu",
       "allergens": [
         "soja"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "15": {
       "english": "tempe",
@@ -107,7 +135,9 @@
       "allergens": [
         "soja",
         "histamin"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "16": {
       "english": "soy bean sprouts",
@@ -115,7 +145,9 @@
       "ingredient": "sojasprossen",
       "allergens": [
         "soja"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": "waschen"
     },
     "17": {
       "english": "wheat gluten powder",
@@ -123,91 +155,121 @@
       "ingredient": "seitanpulver",
       "allergens": [
         "gluten"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "18": {
       "english": "gas",
       "category": "hygiene",
       "ingredient": "gas",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "19": {
       "english": "disinfectant",
       "category": "hygiene",
       "ingredient": "desi",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "20": {
       "english": "trash bags",
       "category": "hygiene",
       "ingredient": "m\u00fcllbeutel",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "21": {
       "english": "sponges",
       "category": "hygiene",
       "ingredient": "schw\u00e4mme",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "22": {
       "english": "lappen",
       "category": "hygiene",
       "ingredient": "lappen",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "23": {
       "english": "steel wool",
       "category": "hygiene",
       "ingredient": "stahlwolle",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "24": {
       "english": "paper towels",
       "category": "hygiene",
       "ingredient": "k\u00fcchenrolle",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "25": {
       "english": "dishwashing soap",
       "category": "hygiene",
       "ingredient": "sp\u00fcli",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "26": {
       "english": "degreaser",
       "category": "hygiene",
       "ingredient": "fettl\u00f6ser",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "27": {
       "english": "hand soap",
       "category": "hygiene",
       "ingredient": "handseife",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "28": {
       "english": "rubber gloves",
       "category": "hygiene",
       "ingredient": "gummihandschuhe",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "29": {
       "english": "dishwashing gloves",
       "category": "hygiene",
       "ingredient": "sp\u00fclhandschuhe",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "30": {
       "english": "baking sheets",
       "category": "hygiene",
       "ingredient": "backpapier",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "31": {
       "english": "cling film",
       "category": "hygiene",
       "ingredient": "frischhaltefolie",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "32": {
       "english": "red wine",
@@ -216,25 +278,33 @@
       "allergens": [
         "alkohol",
         "histamin"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "33": {
       "english": "lemon juice",
       "category": "getr\u00e4nke",
       "ingredient": "zitronensaft",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "34": {
       "english": "orange juice",
       "category": "getr\u00e4nke",
       "ingredient": "orangensaft",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "35": {
       "english": "lime juice",
       "category": "getr\u00e4nke",
       "ingredient": "limettensaft",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "36": {
       "english": "white wine",
@@ -242,7 +312,9 @@
       "ingredient": "wei\u00dfwein",
       "allergens": [
         "alkohol"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "37": {
       "english": "vodka",
@@ -250,61 +322,81 @@
       "ingredient": "wodka",
       "allergens": [
         "alkohol"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "38": {
       "english": "tomatos",
       "category": "gem\u00fcse/obst",
       "ingredient": "tomaten",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "39": {
       "english": "cucumber",
       "category": "gem\u00fcse/obst",
       "ingredient": "gurke",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "40": {
       "english": "mushrooms",
       "category": "gem\u00fcse/obst",
       "ingredient": "champis",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "41": {
       "english": "savoy cabbage",
       "category": "gem\u00fcse/obst",
       "ingredient": "wirsing",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "42": {
       "english": "white cabbage",
       "category": "gem\u00fcse/obst",
       "ingredient": "wei\u00dfkohl",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "43": {
       "english": "carrots",
       "category": "gem\u00fcse/obst",
       "ingredient": "m\u00f6hren",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "44": {
       "english": "fresh spinach",
       "category": "gem\u00fcse/obst",
       "ingredient": "frischer spinat",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "45": {
       "english": "fresh mint",
       "category": "gem\u00fcse/obst",
       "ingredient": "frische minze",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "46": {
       "english": "fresh parsley",
       "category": "gem\u00fcse/obst",
       "ingredient": "frische petersilie",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "47": {
       "english": "spring onions",
@@ -312,13 +404,17 @@
       "ingredient": "fr\u00fchlingszwiebeln",
       "allergens": [
         "zwiebel"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "48": {
       "english": "fresh dill",
       "category": "gem\u00fcse/obst",
       "ingredient": "frischer dill",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "49": {
       "english": "fresh chives",
@@ -326,7 +422,9 @@
       "ingredient": "frischer schnittlauch",
       "allergens": [
         "zwiebel"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "50": {
       "english": "onions",
@@ -334,7 +432,9 @@
       "ingredient": "zwiebeln",
       "allergens": [
         "zwiebel"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "51": {
       "english": "red onions",
@@ -342,7 +442,9 @@
       "ingredient": "rote zwiebeln",
       "allergens": [
         "zwiebel"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "52": {
       "english": "garlic",
@@ -350,127 +452,169 @@
       "ingredient": "knobi",
       "allergens": [
         "knobi"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "53": {
       "english": "salad",
       "category": "gem\u00fcse/obst",
       "ingredient": "salat",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "waschen"
     },
     "54": {
       "english": "rucola",
       "category": "gem\u00fcse/obst",
       "ingredient": "rucola",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "waschen"
     },
     "55": {
       "english": "snack veggies",
       "category": "gem\u00fcse/obst",
       "ingredient": "sn\u00e4ckgem\u00fcse",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "waschen"
     },
     "56": {
       "english": "fryable veggies",
       "category": "gem\u00fcse/obst",
       "ingredient": "bratgem\u00fcse",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "57": {
       "english": "fruit",
       "category": "gem\u00fcse/obst",
       "ingredient": "obst",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "waschen"
     },
     "58": {
       "english": "apples",
       "category": "gem\u00fcse/obst",
       "ingredient": "\u00e4pfel",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "59": {
       "english": "pears",
       "category": "gem\u00fcse/obst",
       "ingredient": "birnen",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "waschen"
     },
     "60": {
       "english": "lime",
       "category": "gem\u00fcse/obst",
       "ingredient": "limetten",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "61": {
       "english": "lemon",
       "category": "gem\u00fcse/obst",
       "ingredient": "zitronen",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "62": {
       "english": "organic orange",
       "category": "gem\u00fcse/obst",
       "ingredient": "bio-orangen",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "63": {
       "english": "sweet potatos",
       "category": "gem\u00fcse/obst",
       "ingredient": "s\u00fc\u00dfkartoffeln",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schälen und schneiden"
     },
     "64": {
       "english": "potatos",
       "category": "gem\u00fcse/obst",
       "ingredient": "kartoffeln",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schälen und schneiden"
     },
     "65": {
       "english": "brokkoli",
       "category": "gem\u00fcse/obst",
       "ingredient": "brokkoli",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "66": {
       "english": "green beans",
       "category": "gem\u00fcse/obst",
       "ingredient": "gr\u00fcne bohnen",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "67": {
       "english": "ginger",
       "category": "gem\u00fcse/obst",
       "ingredient": "ingwer",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "68": {
       "english": "pumpkin",
       "category": "gem\u00fcse/obst",
       "ingredient": "k\u00fcrbis",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "69": {
       "english": "bell pepper",
       "category": "gem\u00fcse/obst",
       "ingredient": "paprika",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "70": {
       "english": "green bell pepper",
       "category": "gem\u00fcse/obst",
       "ingredient": "paprika gr\u00fcn",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "71": {
       "english": "celery",
       "category": "gem\u00fcse/obst",
       "ingredient": "sellerie",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "72": {
       "english": "butternut pumpkin",
       "category": "gem\u00fcse/obst",
       "ingredient": "butternutk\u00fcrbis",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "73": {
       "english": "leek",
@@ -478,55 +622,73 @@
       "ingredient": "lauch",
       "allergens": [
         "lauch"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "74": {
       "english": "beetroot (fresh)",
       "category": "gem\u00fcse/obst",
       "ingredient": "rote beete (roh)",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "kochen",
+      "vorbereitung": "schneiden"
     },
     "75": {
       "english": "propane gas",
       "category": "dosen",
       "ingredient": "propangas",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "76": {
       "english": "canned tomatos (chopped)",
       "category": "dosen",
       "ingredient": "dosentomaten (gehackt)",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "77": {
       "english": "canned tomatos (whole)",
       "category": "dosen",
       "ingredient": "dosentomaten (ganz)",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "78": {
       "english": "canned tomatos (paste)",
       "category": "dosen",
       "ingredient": "dosentomaten (passiert)",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "79": {
       "english": "tomato concentrate",
       "category": "dosen",
       "ingredient": "tomatenmark",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "80": {
       "english": "pickled cucumber",
       "category": "dosen",
       "ingredient": "saure gurken",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "81": {
       "english": "canned sweet corn",
       "category": "dosen",
       "ingredient": "dosenmais",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "82": {
       "english": "canned green peas",
@@ -534,7 +696,9 @@
       "ingredient": "dosenerbsen",
       "allergens": [
         "h\u00fclsenfr\u00fcchte"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "83": {
       "english": "canned black beans",
@@ -542,13 +706,17 @@
       "ingredient": "schwarze bohnen (dose)",
       "allergens": [
         "h\u00fclsenfr\u00fcchte"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "84": {
       "english": "beetroot (pre-cooked)",
       "category": "dosen",
       "ingredient": "rote beete (gekocht)",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "85": {
       "english": "baked beans",
@@ -556,25 +724,33 @@
       "ingredient": "baked beans",
       "allergens": [
         "h\u00fclsenfr\u00fcchte"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "86": {
       "english": "sauerkraut",
       "category": "dosen",
       "ingredient": "sauerkraut",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "87": {
       "english": "applesauce",
       "category": "dosen",
       "ingredient": "apfelmus",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "88": {
       "english": "cane sugar",
       "category": "backen",
       "ingredient": "rohrzucker",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "89": {
       "english": "flour",
@@ -582,61 +758,81 @@
       "ingredient": "mehl",
       "allergens": [
         "gluten"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "90": {
       "english": "cornstarch",
       "category": "backen",
       "ingredient": "st\u00e4rke",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "91": {
       "english": "natron",
       "category": "backen",
       "ingredient": "natron",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "92": {
       "english": "dry yeast",
       "category": "backen",
       "ingredient": "trockenhefe",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "93": {
       "english": "sugar",
       "category": "backen",
       "ingredient": "zucker",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "94": {
       "english": "cocoa powder",
       "category": "backen",
       "ingredient": "kakao",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "95": {
       "english": "chocolate",
       "category": "backen",
       "ingredient": "kuvert\u00fcre/schoki vegan",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "hacken"
     },
     "96": {
       "english": "vanilla sugar",
       "category": "backen",
       "ingredient": "vanillezucker",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "97": {
       "english": "sugar unicorns",
       "category": "backen",
       "ingredient": "zuckereinh\u00f6rner",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "98": {
       "english": "powdered sugar",
       "category": "backen",
       "ingredient": "puderzucker",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "99": {
       "english": "ground hazelnuts",
@@ -644,31 +840,41 @@
       "ingredient": "gemahlene haseln\u00fcsse",
       "allergens": [
         "haseln\u00fcsse"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "100": {
       "english": "baking powder",
       "category": "backen",
       "ingredient": "backpulver",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "101": {
       "english": "olive oil",
       "category": "\u00f6l/essig",
       "ingredient": "oliven\u00f6l",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "102": {
       "english": "linseed oil",
       "category": "\u00f6l/essig",
       "ingredient": "lein\u00f6l",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "103": {
       "english": "oil",
       "category": "\u00f6l/essig",
       "ingredient": "\u00f6l",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "104": {
       "english": "balsamico",
@@ -676,157 +882,209 @@
       "ingredient": "balsamico",
       "allergens": [
         "histamin"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "105": {
       "english": "balsamico (white)",
       "category": "\u00f6l/essig",
       "ingredient": "balsamico (hell)",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "106": {
       "english": "apple cider vinegar",
       "category": "\u00f6l/essig",
       "ingredient": "apfelessig",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "107": {
       "english": "white wine vinegar",
       "category": "\u00f6l/essig",
       "ingredient": "wei\u00dfweinessig",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "108": {
       "english": "laurel leaves",
       "category": "gew\u00fcrze",
       "ingredient": "lorbeer",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "109": {
       "english": "pepper",
       "category": "gew\u00fcrze",
       "ingredient": "pfeffer",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "110": {
       "english": "pepper whole",
       "category": "gew\u00fcrze",
       "ingredient": "pfeffer ganz",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "111": {
       "english": "salt",
       "category": "gew\u00fcrze",
       "ingredient": "salz",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "112": {
       "english": "mustard",
       "category": "gew\u00fcrze",
       "ingredient": "senf",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "113": {
       "english": "nutmeg",
       "category": "gew\u00fcrze",
       "ingredient": "muskat",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "114": {
       "english": "smoked paprika",
       "category": "gew\u00fcrze",
       "ingredient": "ger\u00e4uchertes paprikapulver",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "115": {
       "english": "cumin",
       "category": "gew\u00fcrze",
       "ingredient": "kreuzk\u00fcmmel",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "116": {
       "english": "thyme",
       "category": "gew\u00fcrze",
       "ingredient": "thymian",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "117": {
       "english": "caraway",
       "category": "gew\u00fcrze",
       "ingredient": "k\u00fcmmel",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "118": {
       "english": "vanilla",
       "category": "gew\u00fcrze",
       "ingredient": "vanille",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "119": {
       "english": "black onion seeds",
       "category": "gew\u00fcrze",
       "ingredient": "schwarzk\u00fcmmel",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "120": {
       "english": "turmeric",
       "category": "gew\u00fcrze",
       "ingredient": "kurkuma",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "121": {
       "english": "cinnamon",
       "category": "gew\u00fcrze",
       "ingredient": "zimt",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "122": {
       "english": "oregano",
       "category": "gew\u00fcrze",
       "ingredient": "oregano",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "123": {
       "english": "rosemary",
       "category": "gew\u00fcrze",
       "ingredient": "rosmarin",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "124": {
       "english": "allspice",
       "category": "gew\u00fcrze",
       "ingredient": "allspice",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "125": {
       "english": "curry powder",
       "category": "gew\u00fcrze",
       "ingredient": "curry (pulver)",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "126": {
       "english": "paprika powder",
       "category": "gew\u00fcrze",
       "ingredient": "paprika (pulver)",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "127": {
       "english": "chili powder",
       "category": "gew\u00fcrze",
       "ingredient": "chili (pulver)",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "128": {
       "english": "ginger powder",
       "category": "gew\u00fcrze",
       "ingredient": "ingwer (pulver)",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "129": {
       "english": "vegetable broth",
       "category": "gew\u00fcrze",
       "ingredient": "gem\u00fcsebr\u00fche",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "130": {
       "english": "sojahack (dry)",
@@ -834,7 +1092,9 @@
       "ingredient": "sojahack (trocken)",
       "allergens": [
         "soja"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "131": {
       "english": "lasagna sheets",
@@ -842,7 +1102,9 @@
       "ingredient": "lasagneplatten",
       "allergens": [
         "gluten"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "132": {
       "english": "pasta",
@@ -850,7 +1112,9 @@
       "ingredient": "pasta",
       "allergens": [
         "gluten"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "133": {
       "english": "couscous",
@@ -858,7 +1122,9 @@
       "ingredient": "couscous",
       "allergens": [
         "gluten"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "134": {
       "english": "gr\u00fcnkern",
@@ -866,19 +1132,25 @@
       "ingredient": "gr\u00fcnkern",
       "allergens": [
         "gluten"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "135": {
       "english": "basmati",
       "category": "trockenware",
       "ingredient": "basmati",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "136": {
       "english": "short grain rice",
       "category": "trockenware",
       "ingredient": "milchreis",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "137": {
       "english": "brown lentils",
@@ -886,7 +1158,9 @@
       "ingredient": "braune linsen (tellerlinsen)",
       "allergens": [
         "h\u00fclsenfr\u00fcchte"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "138": {
       "english": "red lentils",
@@ -894,13 +1168,17 @@
       "ingredient": "rote linsen",
       "allergens": [
         "h\u00fclsenfr\u00fcchte"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "139": {
       "english": "sunflower seeds",
       "category": "trockenware",
       "ingredient": "sonnenblumenkerne",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "141": {
       "english": "white beans (dry, wet x 4)",
@@ -908,7 +1186,9 @@
       "ingredient": "wei\u00dfe bohnen (trocken, nass x 2.5)",
       "allergens": [
         "h\u00fclsenfr\u00fcchte"
-      ]
+      ],
+      "vorbereitung vortag": "einweichen",
+      "vorbereitung": "kochen"
     },
     "142": {
       "english": "chickpeas (dry, wet x 2)",
@@ -916,19 +1196,25 @@
       "ingredient": "kichererbsen (trocken, nass x 2)",
       "allergens": [
         "h\u00fclsenfr\u00fcchte"
-      ]
+      ],
+      "vorbereitung vortag": "einweichen",
+      "vorbereitung": "kochen"
     },
     "143": {
       "english": "capers",
       "category": "trockenware",
       "ingredient": "kapern",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "144": {
       "english": "dried tomatos in oil",
       "category": "trockenware",
       "ingredient": "getrocknete tomaten in \u00f6l",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "145": {
       "english": "oats",
@@ -936,7 +1222,9 @@
       "ingredient": "haferflocken",
       "allergens": [
         "gluten"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "146": {
       "english": "vegan sugar cereals",
@@ -944,37 +1232,49 @@
       "ingredient": "veganes zuckerm\u00fcsli",
       "allergens": [
         "gluten"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "147": {
       "english": "coffee",
       "category": "fr\u00fchst\u00fcck",
       "ingredient": "kaffe",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "148": {
       "english": "black tea",
       "category": "fr\u00fchst\u00fcck",
       "ingredient": "schwarztee",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "149": {
       "english": "herbal tea",
       "category": "fr\u00fchst\u00fcck",
       "ingredient": "kr\u00e4utertee",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "150": {
       "english": "jam",
       "category": "fr\u00fchst\u00fcck",
       "ingredient": "marmelade",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "151": {
       "english": "rose jam",
       "category": "fr\u00fchst\u00fcck",
       "ingredient": "rosenmarmelade",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "152": {
       "english": "bread",
@@ -982,7 +1282,9 @@
       "ingredient": "brot",
       "allergens": [
         "gluten"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "153": {
       "english": "smoked tofu",
@@ -990,25 +1292,33 @@
       "ingredient": "r\u00e4uchertofu",
       "allergens": [
         "soja"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "154": {
       "english": "sausages",
       "category": "k\u00fchlware",
       "ingredient": "w\u00fcrstchen",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "155": {
       "english": "potato dumpling dough",
       "category": "k\u00fchlware",
       "ingredient": "klo\u00dfteig",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "156": {
       "english": "tk-r\u00f6sti",
       "category": "k\u00fchlware",
       "ingredient": "tk-r\u00f6sti",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "157": {
       "english": "tk-peas",
@@ -1016,19 +1326,25 @@
       "ingredient": "tk-erbsen",
       "allergens": [
         "h\u00fclsenfr\u00fcchte"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "158": {
       "english": "margerine",
       "category": "k\u00fchlware",
       "ingredient": "margerine",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "159": {
       "english": "margerine (small packs)",
       "category": "k\u00fchlware",
       "ingredient": "margerine (kleine packungen)",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "160": {
       "english": "soy milk",
@@ -1036,7 +1352,9 @@
       "ingredient": "sojamilch",
       "allergens": [
         "soja"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "161": {
       "english": "soy cream",
@@ -1044,7 +1362,9 @@
       "ingredient": "sojasahne",
       "allergens": [
         "soja"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "162": {
       "english": "soy yoghurt",
@@ -1052,7 +1372,9 @@
       "ingredient": "sojajoghurt",
       "allergens": [
         "soja"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "163": {
       "english": "oat milk",
@@ -1060,43 +1382,57 @@
       "ingredient": "hafermilch",
       "allergens": [
         "gluten"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "164": {
       "english": "genuss-block",
       "category": "k\u00fchlware",
       "ingredient": "genuss-block",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "165": {
       "english": "fresh yeast",
       "category": "k\u00fchlware",
       "ingredient": "frische hefe",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "166": {
       "english": "crewcare",
       "category": "snacks",
       "ingredient": "crewcare",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "167": {
       "english": "puffed rice cakes",
       "category": "snacks",
       "ingredient": "reiswaffeln",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "168": {
       "english": "crisps",
       "category": "snacks",
       "ingredient": "chips",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "169": {
       "english": "pecans",
       "category": "snacks",
       "ingredient": "pekann\u00fcsse",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "170": {
       "english": "walnuts",
@@ -1104,7 +1440,9 @@
       "ingredient": "waln\u00fcsse",
       "allergens": [
         "waln\u00fcsse"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "171": {
       "english": "peanuts",
@@ -1112,7 +1450,9 @@
       "ingredient": "erdn\u00fcsse",
       "allergens": [
         "erdn\u00fcsse"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "172": {
       "english": "cashew nuts",
@@ -1120,7 +1460,9 @@
       "ingredient": "cashewn\u00fcsse",
       "allergens": [
         "cashewn\u00fcsse"
-      ]
+      ],
+      "vorbereitung vortag": "einweichen",
+      "vorbereitung": ""
     },
     "173": {
       "english": "ground almonds",
@@ -1128,31 +1470,41 @@
       "ingredient": "gemahlene mandeln",
       "allergens": [
         "mandeln"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "174": {
       "english": "dried mushrooms",
       "category": "gem\u00fcse/obst",
       "ingredient": "getrocknete pilze",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "einweichen"
     },
     "175": {
       "english": "celery",
       "category": "gem\u00fcse/obst",
       "ingredient": "staudensellerie",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "176": {
       "english": "raisins",
       "category": "trockenware",
       "ingredient": "rosinen",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "177": {
       "english": "eggplant",
       "category": "gem\u00fcse/obst",
       "ingredient": "auberginen",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": "schneiden"
     },
     "178": {
       "english": "sliced almonds",
@@ -1160,7 +1512,9 @@
       "ingredient": "gehobelte mandeln",
       "allergens": [
         "mandeln"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "179": {
       "english": "kidney beans (dry, wet x 2.5)",
@@ -1168,7 +1522,9 @@
       "ingredient": "kidneybohnen (trocken, nass x 2.5)",
       "allergens": [
         "h\u00fclsenfr\u00fcchte"
-      ]
+      ],
+      "vorbereitung vortag": "einweichen",
+      "vorbereitung": "kochen"
     },
     "180": {
       "english": "vegetable stock (in litres)",
@@ -1178,19 +1534,25 @@
         "histamin",
         "lauch",
         "zwiebel"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "181": {
       "english": "gluten free pasta",
       "category": "trockenware",
       "ingredient": "glutenfreie nudeln",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "182": {
       "english": "gluten free bread",
       "category": "fr\u00fchst\u00fcck",
       "ingredient": "glutenfreies brot",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "183": {
       "english": "spaghetti",
@@ -1198,7 +1560,9 @@
       "ingredient": "spaghetti",
       "allergens": [
         "gluten"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "184": {
       "english": "cashew nuts",
@@ -1206,25 +1570,33 @@
       "ingredient": "cashewbruch",
       "allergens": [
         "cashewn\u00fcsse"
-      ]
+      ],
+      "vorbereitung vortag": "einweichen",
+      "vorbereitung": ""
     },
     "185": {
       "english": "marker pens",
       "category": "hygiene",
       "ingredient": "filzstifte",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "186": {
       "english": "masking tape",
       "category": "hygiene",
       "ingredient": "papierklebeband",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "187": {
       "english": "scouring cleaner",
       "category": "hygiene",
       "ingredient": "scheuermilch",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "188": {
       "english": "sesame oil",
@@ -1232,19 +1604,25 @@
       "ingredient": "sesam\u00f6l",
       "allergens": [
         "sesam"
-      ]
+      ],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "189": {
       "english": "dishwashing brush",
       "category": "hygiene",
       "ingredient": "sp\u00fclb\u00fcrste",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     },
     "190": {
       "english": "lighters",
       "category": "hygiene",
       "ingredient": "stabfeuerzeuge",
-      "allergens": []
+      "allergens": [],
+      "vorbereitung vortag": "",
+      "vorbereitung": ""
     }
   }
 }
