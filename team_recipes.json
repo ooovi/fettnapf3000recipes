@@ -1162,51 +1162,6 @@
       "materials": [],
       "category": "beilage"
     },
-    "235": {
-      "name": "kartoffelbrei",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "kartoffeln": 3.0,
-            "margerine": 0.5,
-            "sojamilch": 0.3,
-            "salz": 0.02,
-            "muskat": 0.001
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "beilage"
-    },
-    "236": {
-      "name": "risotto",
-      "n_servings": 15.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "milchreis": 0.75,
-            "wei\u00dfwein": 0.5,
-            "zwiebeln": 0.5,
-            "knobi": 0.03,
-            "gemahlene mandeln": 0.2,
-            "hefeflocken": 0.05,
-            "getrocknete pilze": 0.08,
-            "r\u00e4uchertofu": 0.5,
-            "tk-erbsen": 0.6,
-            "gem\u00fcsebr\u00fche": 0.05,
-            "\u00f6l": 0.2,
-            "margarine": 0.2
-          }
-        ]
-      ],
-      "instructions": "- Gem\u00fcsebr\u00fche mit 300ml Wasser pro portion aufgiessen, insgesamt sollten es so 1,5-2 g Salz pro Nase werden\r\n- Zwiebeln d\u00fcnsten 5-10 Minuten \r\n- Tofu dazu 3-5 Minuten \r\n- Knoblauch dazu 1-2 Minuten \r\n- Reis dazu 2-3 Minuten \r\n- Wei\u00dfwein dazu \r\n- Hitze reduzieren \r\n- Br\u00fche in 5-10 Portionen dazu geben. Immer warten bis der Reis die Fl\u00fcssigkeit komplett aufgenommen hat. Solange wiederholen bis gew\u00fcnschte Konsistenz erreicht ist. Ggf. Wasser nehmen falls die Br\u00fche nicht reicht. \r\n- Mandeln, Hefe, Erbsen/pilze etc., evtl. weiteres Fett am Ende untermischen\r\n\r\n\r\n\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "hauptgericht"
-    },
     "238": {
       "name": "tahina",
       "n_servings": 3,
@@ -1450,58 +1405,6 @@
       "materials": [],
       "category": "fr\u00fchst\u00fcck"
     },
-    "263": {
-      "name": "herbstliches rote beete risotto",
-      "n_servings": 36.0,
-      "ingredients": [
-        [
-          "risotto",
-          {
-            "milchreis": 2.0,
-            "wei\u00dfwein": 1.0,
-            "zwiebeln": 1.0,
-            "rote beete (roh)": 2.0,
-            "knobi": 0.1,
-            "salz": 0.18,
-            "pfeffer": 0.09,
-            "gem\u00fcsebr\u00fche (in litern)": 8.0,
-            "margerine": 0.5
-          }
-        ],
-        [
-          "topping",
-          {
-            "waln\u00fcsse": 0.8,
-            "rote zwiebeln": 1.0,
-            "hokkaido": 4.0
-          }
-        ]
-      ],
-      "instructions": "- risotto mit margarine, geduensteten zwiebeln, knoblauch, klein geschnittener rote beete, weisswein und gemuesebruehe \"normal\" zubereiten. ggf. bleibt fluessigkeit uebrig oder muss durch wasser ergaenzt werden.\r\n- rote zwiebeln braten und karamellisieren\r\n- kuerbis in duennen streifen lecker backen\r\n- walnuesse grob hacken und roesten\r\n\r\n\r\n\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "hauptgericht"
-    },
-    "264": {
-      "name": "scones",
-      "n_servings": 5,
-      "ingredients": [
-        [
-          "",
-          {
-            "mehl": 0.5,
-            "zucker": 0.025,
-            "salz": 0.006,
-            "backpulver": 0.016,
-            "rosinen": 0.075,
-            "margarine": 0.075,
-            "sojamilch": 0.3
-          }
-        ]
-      ],
-      "instructions": "trockene Zutaten mischen, butter m\u00f6glichst kalt reinreiben oder br\u00f6seln oder so, Milch dazu und grade so vermischen, nicht lange kneten. ausbreiten, mit ner tasse ausstechen, evtl mit gezuckerter Sojamilch bestreichen.\r\n\r\nbei 220 grad ca 10 min golden backen.\r\n\r\nmacht 2 scones pro portion.",
-      "materials": [],
-      "category": "geb\u00e4ck"
-    },
     "265": {
       "name": "glutenfreie nudeln",
       "n_servings": 10,
@@ -1667,63 +1570,6 @@
       "materials": [],
       "category": "hauptgericht"
     },
-    "281": {
-      "name": "gr\u00fcner nudelsalat",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "salat",
-          {
-            "pasta": 0.85,
-            "sojajoghurt": 0.85,
-            "tk-erbsen": 0.67,
-            "feta": 0.28,
-            "basilikum": 0.07,
-            "salz": 0.002,
-            "pfeffer": 0.002
-          }
-        ],
-        [
-          "dressing",
-          {
-            "tk-erbsen": 0.17,
-            "knoblauch": 0.08,
-            "oliven\u00f6l": 0.15
-          }
-        ],
-        [
-          "kerne",
-          {
-            "pinienkerne": 0.08,
-            "oliven\u00f6l": 0.1,
-            "chiliflocken": 0.02
-          }
-        ]
-      ],
-      "instructions": "Optional: Knoblauch in Alufolie ca. 1 Stunde bei 180-200 Grad backen.\r\n\r\nDressing: Joghurt + Oliven\u00f6l + Erbsen + Knoblauch p\u00fcrieren.\r\n\r\nOliven\u00f6l erhitzen, Chiliflocken + Pinienkerne dazu geben und r\u00f6sten.\r\n\r\n\r\n### Material\r\n\r\nStabmixer\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "salat"
-    },
-    "282": {
-      "name": "easys obstcreme",
-      "n_servings": 12,
-      "ingredients": [
-        [
-          "",
-          {
-            "waldfruchtmix tk": 0.5,
-            "st\u00e4rke": 0.02,
-            "kirschsaft": 0.4,
-            "schlagsahne": 0.3,
-            "skyr": 0.3,
-            "zucker": 0.02
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [],
-      "category": "s\u00fc\u00dfkram"
-    },
     "289": {
       "name": "easys hackbraten",
       "n_servings": 1.0,
@@ -1765,21 +1611,6 @@
       "instructions": "",
       "materials": [],
       "category": "hauptgericht"
-    },
-    "290": {
-      "name": "miau",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "blak": 0.1
-          }
-        ]
-      ],
-      "instructions": "ssss\r\n\r\n\r\n\r",
-      "materials": [],
-      "category": "misc"
     },
     "291": {
       "name": "sauerkraut mit kartoffelbrei",
@@ -1935,59 +1766,6 @@
         "stabmixer"
       ],
       "category": "fr\u00fchst\u00fcck"
-    },
-    "303": {
-      "name": "m\u00f6hrensalat",
-      "n_servings": 4.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "m\u00f6hren": 0.3,
-            "sonnenblumenkerne": 0.05,
-            "zitronensaft": 0.01,
-            "oliven\u00f6l": 0.01,
-            "zucker": 0.006,
-            "salz": 0.008,
-            "pfeffer": 0.002,
-            "frische minze": 0.005
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [
-        "",
-        "reibe"
-      ],
-      "category": "salat"
-    },
-    "304": {
-      "name": "mediterraner nudelsalat",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "pasta": 1.25,
-            "knobi": 0.025,
-            "schwarze oliven": 0.38,
-            "kapern": 0.05,
-            "getrocknete tomaten in \u00f6l": 0.38,
-            "waln\u00fcsse": 0.25,
-            "oliven\u00f6l": 0.1,
-            "tomatenmark": 0.1,
-            "zucker": 0.025,
-            "salz": 0.025,
-            "balsamico": 0.05
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [
-        "",
-        "stabmixer"
-      ],
-      "category": "salat"
     },
     "309": {
       "name": "hygiene",
@@ -2178,26 +1956,6 @@
       ],
       "instructions": "",
       "materials": [],
-      "category": "fr\u00fchst\u00fcck"
-    },
-    "319": {
-      "name": "kaffe",
-      "n_servings": 10.0,
-      "ingredients": [
-        [
-          "",
-          {
-            "kaffe": 0.12,
-            "hafermilch": 0.7,
-            "zucker": 0.04
-          }
-        ]
-      ],
-      "instructions": "",
-      "materials": [
-        "",
-        "kaffe filter"
-      ],
       "category": "fr\u00fchst\u00fcck"
     },
     "320": {
@@ -2416,6 +2174,233 @@
         ]
       ],
       "instructions": "",
+      "materials": [],
+      "category": "salat"
+    },
+    "330": {
+      "name": "kartoffelbrei",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "kartoffeln": 3.0,
+            "margerine": 0.5,
+            "sojamilch": 0.15,
+            "sojasahne": 0.15,
+            "salz": 0.02,
+            "muskat": 0.001
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "beilage"
+    },
+    "331": {
+      "name": "risotto",
+      "n_servings": 15.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "milchreis": 0.75,
+            "wei\u00dfwein": 0.5,
+            "zwiebeln": 0.5,
+            "knobi": 0.03,
+            "gemahlene mandeln": 0.2,
+            "hefeflocken": 0.05,
+            "getrocknete pilze": 0.08,
+            "r\u00e4uchertofu": 0.5,
+            "tk-erbsen": 0.6,
+            "gem\u00fcsebr\u00fche": 0.05,
+            "\u00f6l": 0.2,
+            "margerine": 0.2
+          }
+        ]
+      ],
+      "instructions": "- Gem\u00fcsebr\u00fche mit 300ml Wasser pro portion aufgiessen, insgesamt sollten es so 1,5-2 g Salz pro Nase werden\r\n- Zwiebeln d\u00fcnsten 5-10 Minuten \r\n- Tofu dazu 3-5 Minuten \r\n- Knoblauch dazu 1-2 Minuten \r\n- Reis dazu 2-3 Minuten \r\n- Wei\u00dfwein dazu \r\n- Hitze reduzieren \r\n- Br\u00fche in 5-10 Portionen dazu geben. Immer warten bis der Reis die Fl\u00fcssigkeit komplett aufgenommen hat. Solange wiederholen bis gew\u00fcnschte Konsistenz erreicht ist. Ggf. Wasser nehmen falls die Br\u00fche nicht reicht. \r\n- Mandeln, Hefe, Erbsen/pilze etc., evtl. weiteres Fett am Ende untermischen\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "332": {
+      "name": "risotto herbstlich mit rote beete",
+      "n_servings": 36.0,
+      "ingredients": [
+        [
+          "risotto",
+          {
+            "milchreis": 2.0,
+            "wei\u00dfwein": 1.0,
+            "zwiebeln": 1.0,
+            "rote beete (roh)": 2.0,
+            "knobi": 0.1,
+            "salz": 0.18,
+            "pfeffer": 0.09,
+            "gem\u00fcsebr\u00fche (in litern)": 8.0,
+            "margerine": 0.5
+          }
+        ],
+        [
+          "topping",
+          {
+            "waln\u00fcsse": 0.8,
+            "rote zwiebeln": 1.0,
+            "hokkaido": 4.0
+          }
+        ]
+      ],
+      "instructions": "- risotto mit margerine, geduensteten zwiebeln, knoblauch, klein geschnittener rote beete, weisswein und gemuesebruehe \"normal\" zubereiten. ggf. bleibt fluessigkeit uebrig oder muss durch wasser ergaenzt werden.\r\n- rote zwiebeln braten und karamellisieren\r\n- kuerbis in duennen streifen lecker backen\r\n- walnuesse grob hacken und roesten\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "hauptgericht"
+    },
+    "333": {
+      "name": "scones",
+      "n_servings": 5.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "mehl": 0.5,
+            "zucker": 0.025,
+            "salz": 0.006,
+            "backpulver": 0.016,
+            "rosinen": 0.075,
+            "margerine": 0.075,
+            "sojamilch": 0.3
+          }
+        ]
+      ],
+      "instructions": "trockene Zutaten mischen, butter m\u00f6glichst kalt reinreiben oder br\u00f6seln oder so, Milch dazu und grade so vermischen, nicht lange kneten. ausbreiten, mit ner tasse ausstechen, evtl mit gezuckerter Sojamilch bestreichen.\r\n\r\nbei 220 grad ca 10 min golden backen.\r\n\r\nmacht 2 scones pro portion.\r\n\r\n\r\n\r",
+      "materials": [],
+      "category": "geb\u00e4ck"
+    },
+    "334": {
+      "name": "easys obstcreme",
+      "n_servings": 12.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "waldfruchtmix tk": 0.5,
+            "st\u00e4rke": 0.05,
+            "kirschsaft": 0.4,
+            "schlagsahne": 0.3,
+            "skyr": 0.3,
+            "zucker": 0.2
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [],
+      "category": "s\u00fc\u00dfkram"
+    },
+    "336": {
+      "name": "mediterraner nudelsalat",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "pasta": 1.25,
+            "knobi": 0.025,
+            "schwarze oliven": 0.38,
+            "kapern": 0.05,
+            "getrocknete tomaten in \u00f6l": 0.38,
+            "waln\u00fcsse": 0.25,
+            "oliven\u00f6l": 0.1,
+            "tomatenmark": 0.1,
+            "zucker": 0.025,
+            "salz": 0.025,
+            "balsamico": 0.05
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [
+        "",
+        "stabmixer"
+      ],
+      "category": "salat"
+    },
+    "337": {
+      "name": "kaffe",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "kaffe": 0.12,
+            "hafermilch": 0.7,
+            "zucker": 0.04
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [
+        "kaffe filter"
+      ],
+      "category": "fr\u00fchst\u00fcck"
+    },
+    "338": {
+      "name": "m\u00f6hrensalat",
+      "n_servings": 4.0,
+      "ingredients": [
+        [
+          "",
+          {
+            "m\u00f6hren": 0.3,
+            "sonnenblumenkerne": 0.05,
+            "zitronensaft": 0.01,
+            "oliven\u00f6l": 0.01,
+            "zucker": 0.006,
+            "salz": 0.008,
+            "pfeffer": 0.002,
+            "frische minze": 0.005
+          }
+        ]
+      ],
+      "instructions": "",
+      "materials": [
+        "",
+        "reibe"
+      ],
+      "category": "salat"
+    },
+    "339": {
+      "name": "gr\u00fcner nudelsalat",
+      "n_servings": 10.0,
+      "ingredients": [
+        [
+          "salat",
+          {
+            "pasta": 0.85,
+            "sojajoghurt": 0.85,
+            "tk-erbsen": 0.67,
+            "feta": 0.28,
+            "basilikum": 0.07,
+            "salz": 0.002,
+            "pfeffer": 0.002
+          }
+        ],
+        [
+          "dressing",
+          {
+            "tk-erbsen": 0.17,
+            "knobi": 0.08,
+            "oliven\u00f6l": 0.15
+          }
+        ],
+        [
+          "kerne",
+          {
+            "pinienkerne": 0.08,
+            "oliven\u00f6l": 0.1,
+            "chiliflocken": 0.02
+          }
+        ]
+      ],
+      "instructions": "Optional: Knoblauch in Alufolie ca. 1 Stunde bei 180-200 Grad backen.\r\n\r\nDressing: Joghurt + Oliven\u00f6l + Erbsen + Knoblauch p\u00fcrieren.\r\n\r\nOliven\u00f6l erhitzen, Chiliflocken + Pinienkerne dazu geben und r\u00f6sten.\r\n\r\n\r\n### Material\r\n\r\nStabmixer\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r",
       "materials": [],
       "category": "salat"
     }

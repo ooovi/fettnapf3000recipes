@@ -542,7 +542,7 @@
       "ingredient": "s\u00fc\u00dfkartoffeln",
       "allergens": [],
       "prep_daybefore": "",
-      "prep": "schälen und schneiden"
+      "prep": "sch\u00e4len und schneiden"
     },
     "64": {
       "english": "potatos",
@@ -550,7 +550,7 @@
       "ingredient": "kartoffeln",
       "allergens": [],
       "prep_daybefore": "",
-      "prep": "schälen und schneiden"
+      "prep": "sch\u00e4len und schneiden"
     },
     "65": {
       "english": "brokkoli",
@@ -946,7 +946,9 @@
       "english": "mustard",
       "category": "gew\u00fcrze",
       "ingredient": "senf",
-      "allergens": [],
+      "allergens": [
+        "senf"
+      ],
       "prep_daybefore": "",
       "prep": ""
     },
@@ -1623,6 +1625,74 @@
       "allergens": [],
       "prep_daybefore": "",
       "prep": ""
+    },
+    "191": {
+      "english": "rice",
+      "category": "trockenware",
+      "ingredient": "reis",
+      "allergens": [],
+      "prep": "",
+      "prep_daybefore": ""
+    },
+    "192": {
+      "english": "millet",
+      "category": "trockenware",
+      "ingredient": "hirse",
+      "allergens": [],
+      "prep": "",
+      "prep_daybefore": ""
+    },
+    "193": {
+      "english": "pumpkin seeds",
+      "category": "trockenware",
+      "ingredient": "k\u00fcrbiskerne",
+      "allergens": [],
+      "prep": "",
+      "prep_daybefore": ""
+    },
+    "194": {
+      "english": "cauliflower",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "blumenkohl",
+      "allergens": [],
+      "prep": "schneiden",
+      "prep_daybefore": ""
+    },
+    "195": {
+      "english": "feta",
+      "category": "k\u00fchlware",
+      "ingredient": "feta",
+      "allergens": [],
+      "prep": "schneiden",
+      "prep_daybefore": ""
+    },
+    "196": {
+      "english": "basil",
+      "category": "gem\u00fcse/obst",
+      "ingredient": "basilikum",
+      "allergens": [],
+      "prep": "waschen",
+      "prep_daybefore": ""
+    },
+    "197": {
+      "english": "pine nuts",
+      "category": "trockenware",
+      "ingredient": "pinienkerne",
+      "allergens": [
+        "histamin"
+      ],
+      "prep": "",
+      "prep_daybefore": ""
+    },
+    "198": {
+      "english": "chili flakes",
+      "category": "gew\u00fcrze",
+      "ingredient": "chiliflocken",
+      "allergens": [
+        "histamin"
+      ],
+      "prep": "",
+      "prep_daybefore": ""
     }
   }
 }
